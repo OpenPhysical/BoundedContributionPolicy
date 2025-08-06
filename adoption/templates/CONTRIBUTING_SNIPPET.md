@@ -7,18 +7,21 @@ Add this section to your existing CONTRIBUTING.md file:
 This project follows the [Bounded Contribution Policy](CODE_OF_CONDUCT.md) to maintain technical focus and ensure fair evaluation of all contributions.
 
 ### Key Principles
+
 - **Technical Relevance**: Contributions must directly support project objectives
 - **Individual Evaluation**: Work is assessed based on technical merit, not contributor identity  
 - **Clear Communication**: Discussions should be specific and actionable
 - **Project Focus**: We maintain a neutral environment centered on technical development
 
 ### Before Contributing
+
 1. Review existing issues and documentation
 2. Ensure your contribution aligns with project technical objectives
 3. Provide specific, technical details in proposals and bug reports
 4. Focus feedback on technical implementation and improvements
 
 ### Contribution Types Welcome
+
 - Bug fixes with clear reproduction steps
 - Feature implementations with technical specifications
 - Performance improvements with benchmarks
@@ -27,7 +30,9 @@ This project follows the [Bounded Contribution Policy](CODE_OF_CONDUCT.md) to ma
 - Code quality and maintainability improvements
 
 ### Review Process
+
 All contributions are evaluated based on:
+
 - Technical correctness and quality
 - Alignment with project objectives
 - Code maintainability and documentation

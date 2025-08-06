@@ -1,0 +1,29 @@
+{
+  "name": "bounded-contribution-policy",
+  "version": "1.2.0",
+  "description": "A technical collaboration framework that maintains project focus through clear contribution guidelines and neutral evaluation criteria. Alternative to traditional codes of conduct for technical projects.",
+  "scripts": {
+    "lint:md": "markdownlint-cli2 \"**/*.md\" \"!node_modules/**\"",
+    "lint:md:fix": "markdownlint-cli2 --fix \"**/*.md\" \"!node_modules/**\"",
+    "test": "npm run lint:md"
+  },
+  "devDependencies": {
+    "markdownlint": "^0.35.0",
+    "markdownlint-cli2": "^0.18.1"
+  },
+  "keywords": [
+    "code-of-conduct",
+    "contribution-policy", 
+    "project-governance",
+    "collaboration-framework",
+    "technical-focus",
+    "maintainer-tools",
+    "open-source-governance",
+    "project-management",
+    "neutral-policy",
+    "scope-management",
+    "contribution-guidelines",
+    "technical-collaboration"
+  ],
+  "license": "MIT"
+}

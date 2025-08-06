@@ -9,6 +9,7 @@ This document provides practical examples of how the Bounded Contribution Policy
 **Project:** A TypeScript utility library for data validation
 
 **In Scope:**
+
 - Bug reports with reproduction steps
 - Performance optimization proposals
 - API design discussions
@@ -17,6 +18,7 @@ This document provides practical examples of how the Bounded Contribution Policy
 - TypeScript type definition updates
 
 **Out of Scope:**
+
 - General programming language discussions
 - Unrelated library recommendations
 - Political commentary on technology choices
@@ -24,12 +26,14 @@ This document provides practical examples of how the Bounded Contribution Policy
 - The societal impact of your validation choices
 
 **Example Application:**
+
 ```
 Contributor: "This library should support social justice by validating data in a way that..."
 Maintainer: "Thanks for your interest. This library focuses on data validation functionality. For feature requests, please describe the technical requirements and use cases that would benefit from the change."
 ```
 
 **The Wendy's Moment:**
+
 ```
 Contributor: "Have you considered the broader implications of requiring email validation? This perpetuates digital exclusion and..."
 Maintainer: "Sir, this is a validation library. We validate according to RFC 5322. If you have suggestions for improving our regex patterns or supporting additional email formats, we'd love to hear them!"
@@ -40,6 +44,7 @@ Maintainer: "Sir, this is a validation library. We validate according to RFC 532
 **Project:** Machine learning algorithm implementation for image classification
 
 **In Scope:**
+
 - Algorithm accuracy improvements
 - Performance benchmarking
 - Dataset compatibility issues
@@ -48,6 +53,7 @@ Maintainer: "Sir, this is a validation library. We validate according to RFC 532
 - Research methodology discussions
 
 **Out of Scope:**
+
 - Ethical implications of AI (unless directly affecting implementation)
 - Funding source discussions
 - Academic politics
@@ -55,6 +61,7 @@ Maintainer: "Sir, this is a validation library. We validate according to RFC 532
 - Whether your CNN is contributing to the heat death of the universe
 
 **Example Application:**
+
 ```
 Contributor: "This research contributes to surveillance capitalism..."
 Maintainer: "This project focuses on technical implementation of classification algorithms. If you have concerns about specific technical aspects of the implementation, please provide detailed feedback on the code or methodology."
@@ -65,6 +72,7 @@ Maintainer: "This project focuses on technical implementation of classification 
 **Project:** Customer data processing service
 
 **In Scope:**
+
 - Service performance optimization
 - Security implementation improvements
 - Integration with existing systems
@@ -73,12 +81,14 @@ Maintainer: "This project focuses on technical implementation of classification 
 - Compliance requirement implementations
 
 **Out of Scope:**
+
 - Company policy discussions
 - Organizational restructuring topics
 - General business strategy
 - Personal workplace complaints
 
 **Example Application:**
+
 ```
 Team Member: "I think the company's approach to remote work affects this project..."
 Project Lead: "Let's focus on the technical requirements for the data processing service. If remote work impacts specific technical implementations or testing procedures, please describe those technical considerations."
@@ -89,16 +99,19 @@ Project Lead: "Let's focus on the technical requirements for the data processing
 ### Redirecting Off-Topic Discussions
 
 **Gentle Redirect:**
+
 ```
 This discussion is moving outside our project's technical scope. Let's refocus on [specific technical aspect]. For broader topics, consider [appropriate venue].
 ```
 
 **Policy Reference:**
+
 ```
 This project follows the Bounded Contribution Policy, which keeps discussions focused on technical objectives. Please see [policy link] for guidelines on relevant contributions.
 ```
 
 **Constructive Redirect:**
+
 ```
 Thanks for your interest. To help with this project, we'd benefit from [specific technical contribution]. See our contributing guidelines for examples of helpful contributions.
 ```
@@ -106,6 +119,7 @@ Thanks for your interest. To help with this project, we'd benefit from [specific
 ### Requesting More Technical Detail
 
 **Insufficient Detail:**
+
 ```
 This request needs more technical specifics to evaluate. Please provide:
 - Concrete use cases
@@ -115,6 +129,7 @@ This request needs more technical specifics to evaluate. Please provide:
 ```
 
 **Vague Feature Request:**
+
 ```
 To consider this feature, we need:
 - Specific functionality description
@@ -126,11 +141,13 @@ To consider this feature, we need:
 ### Acknowledging Good Contributions
 
 **Technical Contribution:**
+
 ```
 This addresses a clear technical need with a well-thought implementation. The [specific technical aspect] is particularly helpful for [technical benefit].
 ```
 
 **Constructive Feedback:**
+
 ```
 Thanks for the specific, actionable feedback on [technical area]. The suggested improvements to [technical aspect] would benefit [specific use cases].
 ```
@@ -142,12 +159,14 @@ Thanks for the specific, actionable feedback on [technical area]. The suggested 
 **Request:** "Add support for XML processing"
 
 **Evaluation Process:**
+
 1. **Project Relevance:** Does XML processing support the project's core objectives?
 2. **Technical Merit:** Is the implementation technically sound?
 3. **Resource Impact:** What are the maintenance and complexity implications?
 4. **User Benefit:** Does this solve real technical problems for users?
 
 **Decision Factors:**
+
 - Alignment with project scope
 - Technical quality of implementation
 - Maintenance overhead
@@ -158,12 +177,14 @@ Thanks for the specific, actionable feedback on [technical area]. The suggested 
 **Report:** "Application crashes when processing large files"
 
 **Evaluation Process:**
+
 1. **Reproducibility:** Can the issue be consistently reproduced?
 2. **Technical Detail:** Are sufficient technical details provided?
 3. **Scope Relevance:** Is this within the project's functional area?
 4. **Impact Assessment:** How does this affect project objectives?
 
 **Triage Decision:**
+
 - High priority: Affects core functionality with clear reproduction
 - Low priority: Edge case with workaround available
 - Declined: Outside project scope or insufficient detail
@@ -173,6 +194,7 @@ Thanks for the specific, actionable feedback on [technical area]. The suggested 
 **Pull Request:** Performance optimization for data processing
 
 **Review Criteria:**
+
 1. **Technical Correctness:** Does the code work as intended?
 2. **Performance Impact:** Are the performance claims validated?
 3. **Code Quality:** Does it meet project standards?
@@ -180,6 +202,7 @@ Thanks for the specific, actionable feedback on [technical area]. The suggested 
 5. **Testing:** Is adequate test coverage provided?
 
 **Review Focus:**
+
 - Algorithm efficiency
 - Memory usage improvements
 - Benchmark validation
@@ -188,20 +211,25 @@ Thanks for the specific, actionable feedback on [technical area]. The suggested 
 ## Project-Specific Adaptations
 
 ### High-Performance Computing Project
+
 Focus on computational efficiency, scalability, memory usage, and parallel processing considerations.
 
 ### Security Tool Development
+
 Emphasize security implications, threat modeling, vulnerability assessment, and compliance requirements.
 
 ### Educational Software
+
 Prioritize usability for learning, pedagogical effectiveness, accessibility, and educational outcome measurement.
 
 ### Standards Development
+
 Focus on specification clarity, implementation feasibility, backward compatibility, and industry adoption considerations.
 
 ## Common Patterns
 
 ### Successful Interactions
+
 - Clear problem description with technical details
 - Specific improvement suggestions
 - Constructive code review feedback
@@ -209,6 +237,7 @@ Focus on specification clarity, implementation feasibility, backward compatibili
 - Focused feature discussions
 
 ### Problematic Interactions
+
 - Vague requests without technical detail
 - Off-topic political or social discussions
 - Personal attacks or unconstructive criticism
@@ -218,6 +247,7 @@ Focus on specification clarity, implementation feasibility, backward compatibili
 ## Measuring Success
 
 ### Positive Indicators
+
 - Increased focus on technical discussions
 - Faster decision-making on contributions
 - Reduced conflict and confusion
@@ -225,6 +255,7 @@ Focus on specification clarity, implementation feasibility, backward compatibili
 - Improved project momentum
 
 ### Areas for Adjustment
+
 - High rejection rate may indicate unclear scope communication
 - Contributor confusion suggests need for better examples
 - Maintainer burden indicates enforcement process issues
@@ -236,12 +267,14 @@ Focus on specification clarity, implementation feasibility, backward compatibili
 Sometimes the best way to handle off-topic discussions is with gentle humor. The Wendy's meme perfectly captures the essence of the Bounded Contribution Policy:
 
 **When to invoke the Wendy's Principle:**
+
 - Someone asks about the philosophical implications of your sorting algorithm
 - A contributor wants to discuss how your regex patterns reflect societal power structures
 - An issue is opened about the carbon footprint of your unit tests
 - Someone suggests your API design should "center marginalized voices"
 
 **Example responses:**
+
 - "I appreciate your perspective, but this is a JSON parser. We're focused on parsing JSON."
 - "Sir, this is a build tool. We're here to build software, not rebuild society."
 - "Thanks for the suggestion! Our scope is limited to making HTTP requests, not examining their existential meaning."

@@ -3,6 +3,7 @@
 ## Adapting Templates for Your Project Type
 
 These templates should be customized based on your project's nature:
+
 - **Software/Code Projects**: Focus on technical implementation, bugs, and features
 - **Documentation Projects**: Emphasize clarity, accuracy, and information architecture
 - **Policy/Governance Projects**: Focus on policy implications, adoption challenges, and clarifications
