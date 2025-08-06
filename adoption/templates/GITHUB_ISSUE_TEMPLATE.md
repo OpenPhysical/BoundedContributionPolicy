@@ -1,5 +1,17 @@
 # GitHub Issue Template
 
+## Adapting Templates for Your Project Type
+
+These templates should be customized based on your project's nature:
+- **Software/Code Projects**: Focus on technical implementation, bugs, and features
+- **Documentation Projects**: Emphasize clarity, accuracy, and information architecture
+- **Policy/Governance Projects**: Focus on policy implications, adoption challenges, and clarifications
+- **Research Projects**: Include methodology, data requirements, and validation criteria
+
+Replace "technical" terminology with domain-appropriate language while maintaining focus on project-relevant contributions.
+
+## Feature Request Template
+
 Add this to `.github/ISSUE_TEMPLATE/feature_request.md` or similar:
 
 ```markdown
@@ -11,23 +23,30 @@ labels: enhancement
 assignees: ''
 ---
 
-## Technical Objective
-Describe the specific technical problem or improvement opportunity.
+## Objective
+<!-- For software: Describe the technical problem or improvement
+     For documentation: Describe the information gap or clarity issue
+     For policy: Describe the governance challenge or adoption barrier -->
+Describe the specific problem or improvement opportunity.
 
 ## Proposed Solution
-Provide a clear, technical description of what you'd like to see implemented.
+Provide a clear description of what you'd like to see implemented.
 
-## Technical Details
+## Implementation Details
+<!-- Customize based on project type:
+     Software: Implementation approach, dependencies, performance
+     Documentation: Structure changes, examples needed, clarity improvements
+     Policy: Adoption considerations, compatibility, enforcement challenges -->
 - Implementation approach
 - Dependencies or requirements
 - Compatibility considerations
-- Performance implications
+- Impact assessment
 
 ## Additional Context
 Include any other technical context, examples, or references.
 
 ---
-**Note:** This project follows the [Bounded Contribution Policy](../BOUNDED_CONTRIBUTION_POLICY.md). Please ensure your request aligns with our technical objectives and focus areas.
+**Note:** This project follows the [Bounded Contribution Policy](../CODE_OF_CONDUCT.md). Please ensure your request aligns with our technical objectives and focus areas.
 ```
 
 ## Bug Report Template
@@ -44,23 +63,30 @@ assignees: ''
 ---
 
 ## Problem Description
-Clear description of the technical issue.
+<!-- For software: Technical issue description
+     For documentation: Incorrect/missing information
+     For policy: Implementation challenge or ambiguity -->
+Clear description of the issue.
 
-## Reproduction Steps
+## Reproduction Steps / How to Observe
 1. Step one
 2. Step two
 3. Step three
 
 ## Expected Behavior
-What should happen technically.
+What should happen.
 
 ## Actual Behavior
 What actually happens.
 
-## Environment
-- OS: [e.g., Windows 10, Ubuntu 20.04]
-- Version: [e.g., v1.2.3]
-- Configuration: [relevant technical details]
+## Context
+<!-- Customize based on project type:
+     Software: OS, version, configuration
+     Documentation: Section, version, reader perspective
+     Policy: Organization type, team size, implementation stage -->
+- Environment/Context: [relevant details]
+- Version: [if applicable]
+- Additional context: [project-specific information]
 
 ## Additional Technical Information
 - Error messages
@@ -69,7 +95,7 @@ What actually happens.
 - Debugging information
 
 ---
-**Note:** Please focus on technical details and reproduction steps. See our [Bounded Contribution Policy](../BOUNDED_CONTRIBUTION_POLICY.md) for contribution guidelines.
+**Note:** Please focus on technical details and reproduction steps. See our [Bounded Contribution Policy](../CODE_OF_CONDUCT.md) for contribution guidelines.
 ```
 
 ## General Issue Template
@@ -78,20 +104,59 @@ For projects using a single issue template:
 
 ```markdown
 ## Issue Type
-- [ ] Bug report
-- [ ] Feature request
-- [ ] Technical question
+<!-- Customize options based on project type -->
+- [ ] Bug report / Error
+- [ ] Feature request / Enhancement
+- [ ] Question / Clarification
 - [ ] Documentation improvement
 
 ## Description
-Provide a clear, technical description of the issue or request.
+Provide a clear description of the issue or request.
 
-## Technical Context
-Include relevant technical details, code examples, or system information.
+## Context
+<!-- For software: Include technical details, code examples
+     For documentation: Include sections, examples needed
+     For policy: Include use cases, adoption scenarios -->
+Include relevant details, examples, or information.
 
 ## Acceptance Criteria
-For feature requests, describe the technical requirements for completion.
+Describe the requirements for this issue to be considered resolved.
 
 ---
-**Project Focus:** This project maintains technical focus through our [Bounded Contribution Policy](BOUNDED_CONTRIBUTION_POLICY.md). Please ensure your issue relates to our technical objectives.
+**Project Focus:** This project maintains focused contributions through our [Bounded Contribution Policy](CODE_OF_CONDUCT.md). Please ensure your issue relates to our project objectives.
+```
+
+## Policy/Governance Project Template Example
+
+For code of conduct or policy repositories:
+
+```markdown
+---
+name: Policy Clarification Request
+about: Request clarification or suggest improvements to the policy
+title: ''
+labels: clarification, policy
+assignees: ''
+---
+
+## Policy Section
+Identify the specific section or principle that needs clarification.
+
+## Current Interpretation
+Describe your understanding of the current policy language.
+
+## Clarification Needed
+Explain what aspects are unclear or could be improved.
+
+## Use Case
+Provide a real-world scenario where this clarification would help:
+- Project type and size
+- Community context
+- Specific situation encountered
+
+## Suggested Improvement
+If applicable, propose specific language or examples.
+
+---
+**Note:** This project follows the [Bounded Contribution Policy](CODE_OF_CONDUCT.md). Focus on practical improvements that enhance policy clarity and adoption.
 ```

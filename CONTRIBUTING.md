@@ -2,6 +2,22 @@
 
 Thank you for your interest in improving the Bounded Contribution Policy. This document outlines how to contribute to the policy itself.
 
+## A Quick Reminder
+
+![Sir, this is a Wendy's](res/images/wendys.jpg)
+
+Just like our favorite fast-food meme reminds us, this repository has a specific purpose: **practical policy frameworks for focused technical collaboration**.
+
+We're not here to:
+- Debate the philosophical implications of contribution boundaries
+- Discuss the greater socioeconomic ramifications of focused collaboration
+- Solve world peace through pull request templates
+
+We ARE here to:
+- Make technical projects more focused and productive
+- Provide practical templates and guidance
+- Help maintainers avoid burnout from off-topic discussions
+
 ## Contribution Guidelines
 
 This project follows its own Bounded Contribution Policy, focusing on practical improvements to the policy framework and implementation resources.
@@ -34,6 +50,9 @@ This project follows its own Bounded Contribution Policy, focusing on practical 
 - Addition of identity-based evaluation criteria
 - Expansion beyond technical contribution management
 - Complex governance structures or processes
+- Discussions about whether we should consider the differential effect of our policy on various communities (Sir, this is still a Wendy's)
+- Feature requests to track contributor demographics
+- Suggestions to add social impact assessments
 
 ## How to Contribute
 

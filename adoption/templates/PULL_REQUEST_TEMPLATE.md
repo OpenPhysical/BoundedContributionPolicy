@@ -39,7 +39,7 @@ Steps for reviewers to verify the changes:
 3. 
 
 ---
-**Policy Compliance:** This contribution follows the [Bounded Contribution Policy](BOUNDED_CONTRIBUTION_POLICY.md) with focus on technical value and project relevance.
+**Policy Compliance:** This contribution follows the [Bounded Contribution Policy](CODE_OF_CONDUCT.md) with focus on technical value and project relevance.
 ```
 
 ## Code Review Checklist Template
@@ -91,7 +91,7 @@ For use with GitHub Actions or bots:
 
 ```markdown
 <!-- Off-topic response -->
-Thank you for your interest in this project. This discussion appears to be outside our technical scope as defined in our [Bounded Contribution Policy](BOUNDED_CONTRIBUTION_POLICY.md). 
+Thank you for your interest in this project. This discussion appears to be outside our technical scope as defined in our [Bounded Contribution Policy](CODE_OF_CONDUCT.md). 
 
 Please focus on technical aspects directly related to [project name] functionality, implementation, or documentation.
 
@@ -104,5 +104,5 @@ This request needs more technical detail to evaluate properly. Please provide:
 - Use case examples
 - Compatibility requirements
 
-See our [contributing guidelines](CONTRIBUTING.md) and [Bounded Contribution Policy](BOUNDED_CONTRIBUTION_POLICY.md) for more information.
+See our [contributing guidelines](CONTRIBUTING.md) and [Bounded Contribution Policy](CODE_OF_CONDUCT.md) for more information.
 ```

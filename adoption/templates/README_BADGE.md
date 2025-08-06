@@ -25,7 +25,7 @@ Add this badge to your project README to indicate use of the Bounded Contributio
 A focused technical project that maintains clear contribution guidelines.
 
 ## Contributing
-This project follows the [Bounded Contribution Policy](BOUNDED_CONTRIBUTION_POLICY.md) to ensure technical focus and individual evaluation of contributions.
+This project follows the [Bounded Contribution Policy](CODE_OF_CONDUCT.md) to ensure technical focus and individual evaluation of contributions.
 ```
 
 ### Alternative Styles

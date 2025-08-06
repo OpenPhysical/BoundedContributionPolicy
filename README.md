@@ -1,6 +1,12 @@
 # Bounded Contribution Policy
 
+![Sir, this is a Wendy's](res/images/wendys.jpg)
+
 A technical collaboration framework that maintains project focus through clear contribution guidelines and neutral evaluation criteria.
+
+*Sometimes you just need to remind folks that this is a code repository, not a philosophy seminar.*
+
+**Current Version: 1.1.0** ([See Changelog](docs/CHANGELOG.md))
 
 ## Overview
 
@@ -26,7 +32,7 @@ Traditional governance models can introduce complexity and scope creep that dist
 
 ## Quick Start
 
-1. Copy [`BOUNDED_CONTRIBUTION_POLICY.md`](BOUNDED_CONTRIBUTION_POLICY.md) to your project
+1. Copy [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) to your project
 2. Reference it in your README or contributing guidelines
 3. Use the provided templates for common scenarios
 
@@ -36,6 +42,7 @@ Traditional governance models can introduce complexity and scope creep that dist
 - **[Templates](adoption/templates/)** - Ready-to-use templates for different platforms
 - **[Customization Guide](adoption/CUSTOMIZATION.md)** - Adapting the policy for your needs
 - **[FAQ](FAQ.md)** - Common questions and answers
+- **[Changelog](docs/CHANGELOG.md)** - Version history and updates
 
 ## Examples
 

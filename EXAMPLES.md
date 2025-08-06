@@ -21,11 +21,18 @@ This document provides practical examples of how the Bounded Contribution Policy
 - Unrelated library recommendations
 - Political commentary on technology choices
 - Personal development career advice
+- The societal impact of your validation choices
 
 **Example Application:**
 ```
-Contributor: "This library should support social justice by..."
+Contributor: "This library should support social justice by validating data in a way that..."
 Maintainer: "Thanks for your interest. This library focuses on data validation functionality. For feature requests, please describe the technical requirements and use cases that would benefit from the change."
+```
+
+**The Wendy's Moment:**
+```
+Contributor: "Have you considered the broader implications of requiring email validation? This perpetuates digital exclusion and..."
+Maintainer: "Sir, this is a validation library. We validate according to RFC 5322. If you have suggestions for improving our regex patterns or supporting additional email formats, we'd love to hear them!"
 ```
 
 ### Research Project
@@ -45,6 +52,7 @@ Maintainer: "Thanks for your interest. This library focuses on data validation f
 - Funding source discussions
 - Academic politics
 - General AI philosophy debates
+- Whether your CNN is contributing to the heat death of the universe
 
 **Example Application:**
 ```
@@ -220,5 +228,24 @@ Focus on specification clarity, implementation feasibility, backward compatibili
 - High rejection rate may indicate unclear scope communication
 - Contributor confusion suggests need for better examples
 - Maintainer burden indicates enforcement process issues
+
+## The "Sir, This Is a Wendy's" Principle
+
+![Sir, this is a Wendy's](res/images/wendys.jpg)
+
+Sometimes the best way to handle off-topic discussions is with gentle humor. The Wendy's meme perfectly captures the essence of the Bounded Contribution Policy:
+
+**When to invoke the Wendy's Principle:**
+- Someone asks about the philosophical implications of your sorting algorithm
+- A contributor wants to discuss how your regex patterns reflect societal power structures
+- An issue is opened about the carbon footprint of your unit tests
+- Someone suggests your API design should "center marginalized voices"
+
+**Example responses:**
+- "I appreciate your perspective, but this is a JSON parser. We're focused on parsing JSON."
+- "Sir, this is a build tool. We're here to build software, not rebuild society."
+- "Thanks for the suggestion! Our scope is limited to making HTTP requests, not examining their existential meaning."
+
+Remember: It's not about being dismissive—it's about maintaining focus so everyone can be productive. When someone orders a philosophy debate at your code repository, it's perfectly fine to remind them they're at a Wendy's.
 
 These examples demonstrate how the policy provides clear, consistent guidance for maintaining technical focus while encouraging productive collaboration.

@@ -5,7 +5,7 @@ This guide provides step-by-step instructions for implementing the Bounded Contr
 ## Quick Implementation
 
 ### Step 1: Add the Policy
-Copy the [`BOUNDED_CONTRIBUTION_POLICY.md`](../BOUNDED_CONTRIBUTION_POLICY.md) file to your project repository.
+Copy the [`CODE_OF_CONDUCT.md`](../CODE_OF_CONDUCT.md) file to your project repository.
 
 ### Step 2: Reference the Policy
 Add a link to your policy in one or more of these locations:
@@ -27,7 +27,7 @@ Announce the policy adoption with neutral language focusing on technical benefit
 **README.md Addition:**
 ```markdown
 ## Contributing
-This project uses the [Bounded Contribution Policy](BOUNDED_CONTRIBUTION_POLICY.md) to maintain technical focus and clear contribution guidelines.
+This project uses the [Bounded Contribution Policy](CODE_OF_CONDUCT.md) to maintain technical focus and clear contribution guidelines.
 ```
 
 **CONTRIBUTING.md Integration:**

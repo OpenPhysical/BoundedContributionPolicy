@@ -4,7 +4,7 @@ Add this section to your existing CONTRIBUTING.md file:
 
 ## Contribution Policy
 
-This project follows the [Bounded Contribution Policy](BOUNDED_CONTRIBUTION_POLICY.md) to maintain technical focus and ensure fair evaluation of all contributions.
+This project follows the [Bounded Contribution Policy](CODE_OF_CONDUCT.md) to maintain technical focus and ensure fair evaluation of all contributions.
 
 ### Key Principles
 - **Technical Relevance**: Contributions must directly support project objectives
@@ -47,7 +47,7 @@ Thank you for your interest in contributing to [Project Name]. This guide outlin
 
 ## Contribution Policy
 
-This project uses the [Bounded Contribution Policy](BOUNDED_CONTRIBUTION_POLICY.md) to maintain focus on technical objectives while ensuring fair evaluation of all contributions.
+This project uses the [Bounded Contribution Policy](CODE_OF_CONDUCT.md) to maintain focus on technical objectives while ensuring fair evaluation of all contributions.
 
 ## Getting Started
 
@@ -134,7 +134,7 @@ For technical questions:
 - Reference specific code or functionality in questions
 
 For policy questions:
-- Review the [Bounded Contribution Policy](BOUNDED_CONTRIBUTION_POLICY.md)
+- Review the [Bounded Contribution Policy](CODE_OF_CONDUCT.md)
 - Contact project maintainers for clarification
 
 ## Recognition

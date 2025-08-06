@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: General Discussions
+    url: https://github.com/mistial-dev/BoundedContributionPolicy/discussions
+    about: For general discussions about the Bounded Contribution Policy framework
+  - name: Browse Templates
+    url: https://github.com/mistial-dev/BoundedContributionPolicy/tree/main/adoption/templates
+    about: View example templates for different platforms
+  - name: Read the Full Policy
+    url: https://github.com/mistial-dev/BoundedContributionPolicy/blob/main/BOUNDED_CONTRIBUTION_POLICY.md
+    about: Understand the policy principles before contributing
+  - name: Implementation Examples
+    url: https://github.com/mistial-dev/BoundedContributionPolicy/blob/main/EXAMPLES.md
+    about: See how others have implemented the policy

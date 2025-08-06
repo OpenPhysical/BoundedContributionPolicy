@@ -80,6 +80,16 @@ Consider tracking: time spent on non-technical discussions, contributor satisfac
 ### How often should the policy be reviewed or updated?
 Review the policy when project scope changes significantly or if application challenges arise. Most projects find the core principles remain stable while implementation details may need occasional adjustment.
 
+### What if someone asks about the socioeconomic implications of my project?
+![Sir, this is a Wendy's](res/images/wendys.jpg)
+
+Politely redirect them to the project's technical objectives. Example responses:
+- "This project focuses on [technical objective]. For broader discussions, you might want to check out [appropriate forum]."
+- "We keep our discussions focused on implementation details. Thanks for understanding!"
+- "Sir, this is a code repository."
+
+Remember: You're not being rude by maintaining focus. You're ensuring the project stays productive and on-mission.
+
 ## Getting Help
 
 ### Where can I get support for implementing this policy?

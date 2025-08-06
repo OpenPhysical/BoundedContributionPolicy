@@ -1,6 +1,6 @@
 # Bounded Contribution Policy
 
-## Contribution and Discussion Policy
+## Our Standards
 
 This project is dedicated to building and maintaining a specific technical product. To support that goal, all contributions and discussions must align with the following principles:
 
@@ -22,9 +22,19 @@ Project maintainers are not obligated to respond to all input. Engagement is pri
 ### Neutral Environment
 This project maintains a neutral technical focus. Social, political, or ideological discussions are outside the project's scope. Participation must reflect this technical orientation.
 
-### Enforcement
+## Enforcement
+
 These principles will be applied consistently. Violations may result in rejection of contributions, removal of access, or other actions deemed necessary by project maintainers to maintain project focus.
+
+Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that do not align with this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+
+## Scope
+
+This Code of Conduct applies within all project spaces, including but not limited to:
+- GitHub repository (issues, pull requests, discussions)
+- Project documentation
+- Community channels officially associated with the project
 
 ## Purpose
 
-This policy provides a framework for maintaining focused, productive technical collaboration by establishing clear boundaries around project scope and contribution evaluation criteria.
+The Bounded Contribution Policy provides a framework for maintaining focused, productive technical collaboration by establishing clear boundaries around project scope and contribution evaluation criteria.
