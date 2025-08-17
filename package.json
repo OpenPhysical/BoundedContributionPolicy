@@ -1,6 +1,6 @@
 {
   "name": "bounded-contribution-policy",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A technical collaboration framework that maintains project focus through clear contribution guidelines and neutral evaluation criteria. Alternative to traditional codes of conduct for technical projects.",
   "scripts": {
     "lint:md": "markdownlint-cli2 \"**/*.md\" \"!node_modules/**\"",

@@ -33,7 +33,7 @@ the project move forward. It's not about limiting people—it's about channellin
 
 The OpenPhysical Foundation uses this policy as a standards body to maintain focus on technical specifications and implementation details.
 
-**Current Version: 2.0.1** ([See Changelog](docs/CHANGELOG.md))
+**Current Version: 2.0.2** ([See Changelog](docs/CHANGELOG.md))
 
 ## 📊 At a Glance
 

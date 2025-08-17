@@ -1,6 +1,6 @@
 # Bounded Contribution Policy
 
-**Version 2.0.1** | [Changelog](docs/CHANGELOG.md)
+**Version 2.0.2** | [Changelog](docs/CHANGELOG.md)
 
 ## Our Standards
 

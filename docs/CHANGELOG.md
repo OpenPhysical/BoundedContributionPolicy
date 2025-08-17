@@ -5,6 +5,13 @@ All notable changes to the Bounded Contribution Policy framework will be documen
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.2] - 2025-08-17
+
+### Fixed
+
+- Updated GitHub Actions workflow to use Node.js 20 instead of 18 to meet markdownlint-cli2 requirements
+- Ensured workflow compatibility with latest pre-commit and markdownlint-cli2 versions
+
 ## [2.0.1] - 2025-08-17
 
 ### Changed
@@ -119,6 +126,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Implementation Resources**: Guides for adoption, customization, and platform integration
 - **Examples**: Real-world scenarios showing policy application
 
+[2.0.2]: https://github.com/OpenPhysical/BoundedContributionPolicy/compare/v2.0.1...v2.0.2
 [2.0.1]: https://github.com/OpenPhysical/BoundedContributionPolicy/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/OpenPhysical/BoundedContributionPolicy/compare/v1.2.0...v2.0.0
 [1.2.0]: https://github.com/OpenPhysical/BoundedContributionPolicy/compare/v1.1.0...v1.2.0
