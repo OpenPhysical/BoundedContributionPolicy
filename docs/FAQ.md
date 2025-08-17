@@ -135,7 +135,7 @@ Most projects find the core principles remain stable while implementation detail
 
 ### What if someone asks about the socioeconomic implications of my project?
 
-![Sir, this is a Wendy's](res/images/wendys.jpg)
+![Sir, this is a Wendy's](../res/images/wendys.jpg)
 
 Politely redirect them to the project's technical objectives. Example responses:
 
@@ -147,7 +147,7 @@ Remember: You're not being rude by maintaining focus. You're ensuring the projec
 
 ### What's the "Sir, this is a Wendy's" reference about?
 
-![Sir, this is a Wendy's](res/images/wendys.jpg)
+![Sir, this is a Wendy's](../res/images/wendys.jpg)
 
 This is a popular internet meme that humorously points out when someone is in the wrong place for a particular discussion.
 In technical projects, we sometimes adapt this as a gentle way to redirect off-topic conversations.
