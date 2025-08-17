@@ -97,7 +97,7 @@ Evaluating work based on technical merit rather than contributor characteristics
 
 ### Traditional Codes of Conduct
 
-While codes of conduct focus on behavior and community standards,
+While codes of conduct focus on behaviour and community standards,
 the Bounded Contribution Policy addresses contribution management specifically.
 Projects may use both approaches for comprehensive governance.
 
@@ -134,7 +134,7 @@ The principles apply regardless of technical platform, making the policy useful 
 
 ### Reduced Burnout
 
-Clear boundaries and evaluation criteria help prevent maintainer burnout by reducing the emotional labor of managing complex social dynamics.
+Clear boundaries and evaluation criteria help prevent maintainer burnout by reducing the emotional labour of managing complex social dynamics.
 
 ### Maintained Quality
 

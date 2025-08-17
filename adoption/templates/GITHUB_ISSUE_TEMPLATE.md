@@ -34,7 +34,7 @@ Describe the specific problem or improvement opportunity.
 Provide a clear description of what you'd like to see implemented.
 
 ## Implementation Details
-<!-- Customize based on project type:
+<!-- Customise based on project type:
   Software: Implementation approach, dependencies, performance
   Documentation: Structure changes, examples needed, clarity improvements
   Policy: Adoption considerations, compatibility, enforcement challenges -->
@@ -75,17 +75,17 @@ Clear description of the issue.
 2. Step two
 3. Step three
 
-## Expected Behavior
+## Expected Behaviour
 What should happen.
 
-## Actual Behavior
+## Actual Behaviour
 What actually happens.
 
 ## Context
-<!-- Customize based on project type:
+<!-- Customise based on project type:
   Software: OS, version, configuration
   Documentation: Section, version, reader perspective
-  Policy: Organization type, team size, implementation stage -->
+  Policy: Organisation type, team size, implementation stage -->
 - Environment/Context: [relevant details]
 - Version: [if applicable]
 - Additional context: [project-specific information]
@@ -106,7 +106,7 @@ For projects using a single issue template:
 
 ```markdown
 ## Issue Type
-<!-- Customize options based on project type -->
+<!-- Customise options based on project type -->
 - [ ] Bug report / Error
 - [ ] Feature request / Enhancement
 - [ ] Question / Clarification

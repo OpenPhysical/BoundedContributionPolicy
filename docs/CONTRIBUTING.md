@@ -48,7 +48,7 @@ This project follows its own Bounded Contribution Policy, focusing on practical 
 
 - Website improvements
 - Template validation
-- Documentation organization
+- Documentation organisation
 
 ## Code Quality Standards
 

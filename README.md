@@ -6,8 +6,9 @@
 
 <!-- END BADGIE TIME -->
 
-[![Organization](https://img.shields.io/badge/Organization-OpenPhysical-blue)](https://github.com/openphysical)
-[![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](docs/CHANGELOG.md)
+[![Organisation](https://img.shields.io/badge/Organisation-OpenPhysical-blue)](https://github.com/openphysical)
+[![GitHub release](https://img.shields.io/github/release/OpenPhysical/BoundedContributionPolicy.svg)](
+  https://github.com/OpenPhysical/BoundedContributionPolicy/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Policy Type](https://img.shields.io/badge/policy-technical%20collaboration-blueviolet)](CODE_OF_CONDUCT.md)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/OpenPhysical/BoundedContributionPolicy/graphs/commit-activity)
@@ -32,13 +33,13 @@ the project move forward. It's not about limiting people—it's about channellin
 
 The OpenPhysical Foundation uses this policy as a standards body to maintain focus on technical specifications and implementation details.
 
-**Current Version: 2.0.0** ([See Changelog](docs/CHANGELOG.md))
+**Current Version: 2.0.1** ([See Changelog](docs/CHANGELOG.md))
 
 ## 📊 At a Glance
 
 | Feature             | Bounded Contribution Policy    | Traditional CoC                 |
 |---------------------|--------------------------------|---------------------------------|
-| **Focus**           | 🎯 Technical contributions     | 👥 Community behavior           |
+| **Focus**           | 🎯 Technical contributions     | 👥 Community behaviour          |
 | **Scope**           | 📋 Project-specific objectives | 🌐 Broad social guidelines      |
 | **Enforcement**     | ⚡ Clear, technical criteria    | 🤔 Subjective interpretation    |
 | **Setup Time**      | ⏱️ < 5 minutes                 | ⏰ Hours of customization        |
@@ -78,12 +79,12 @@ Traditional governance models can introduce complexity and scope creep that dist
 
 ## 📚 Implementation Resources
 
-- 🚀 **[Adoption Flow—](docs/ADOPTION_FLOW.md)**Visual guide to implementing the policy
-- 📖 **[Adoption Guide](adoption/ADOPTION_GUIDE.md)** - Step-by-step implementation
-- 🛠️ **[Templates](adoption/templates/)** - Ready-to-use templates for different platforms
-- 🎨 **[Customisation Guide—](adoption/CUSTOMIZATION.md)**Adapting the policy for your needs
-- 🤔 **[FAQ—](docs/FAQ.md)**Common questions and answers
-- 📝 **[Changelog—](docs/CHANGELOG.md)**Version history and updates
+- 🚀 **[Adoption Flow](docs/ADOPTION_FLOW.md)**—Visual guide to implementing the policy
+- 📖 **[Adoption Guide](adoption/ADOPTION_GUIDE.md)**—Step-by-step implementation
+- 🛠️ **[Templates](adoption/templates/)**—Ready-to-use templates for different platforms
+- 🎨 **[Customisation Guide](adoption/CUSTOMISATION.md)**—Adapting the policy for your needs
+- 🤔 **[FAQ](docs/FAQ.md)**—Common questions and answers
+- 📝 **[Changelog](docs/CHANGELOG.md)**—Version history and updates
 
 ## 📖 Examples
 

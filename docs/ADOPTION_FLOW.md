@@ -8,7 +8,7 @@ flowchart TD
     B -->|Yes| C[📥 Copy CODE_OF_CONDUCT.md]
     B -->|No| Z[❌ Policy Not Needed]
 
-    C --> D[🔧 Customize for Project]
+    C --> D[🔧 Customise for Project]
     D --> E[📝 Reference in README]
     E --> F[🛠️ Add Issue Templates]
     F --> G[🔗 Update Contributing Guide]
@@ -27,7 +27,7 @@ flowchart TD
     N -->|Yes| O[📚 Review Templates]
     N -->|No| P[🔄 Continue as Usual]
 
-    O --> Q[🎨 Customize Further]
+    O --> Q[🎨 Customise Further]
     Q --> P
     P --> I
 
@@ -42,7 +42,7 @@ flowchart TD
 
 1. **🏗️ Start**: Assess if your project needs contribution guidelines
 2. **📥 Copy**: Get the `CODE_OF_CONDUCT.md` file
-3. **🔧 Customize**: Adapt sections for your project type
+3. **🔧 Customise**: Adapt sections for your project type
 4. **📝 Reference**: Link from your README and contributing docs
 5. **🛠️ Templates**: Add issue and PR templates
 6. **🎉 Launch**: Start using the policy

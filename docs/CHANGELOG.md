@@ -5,6 +5,14 @@ All notable changes to the Bounded Contribution Policy framework will be documen
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.1] - 2025-08-17
+
+### Changed
+
+- Converted all American English spellings to British English for consistency
+- Fixed markdown formatting in Implementation Resources section
+- Updated badge from "Organization" to "Organisation"
+
 ## [2.0.0] - 2025-08-17
 
 ### Changed
@@ -13,7 +21,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **BREAKING**: Moved "Sir, this is a Wendy's" content from README to FAQ for better context
 - Renamed "Sir, this is a Wendy's" section to "Overall Philosophy" in README
 - Enhanced policy language to be welcoming while maintaining firm boundaries
-- Updated all GitHub repository references from mistial-dev to OpenPhysical organization
+- Updated all GitHub repository references from mistial-dev to OpenPhysical organisation
 - Improved CODE_OF_CONDUCT.md with more inclusive language
 - Added cultural sensitivity notes about different ways to redirect conversations
 - Lowered reading level throughout for better accessibility
@@ -49,7 +57,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Enhanced README structure with better visual organization
+- Enhanced README structure with better visual organisation
 - Improved navigation throughout documentation with emoji headers
 - Updated pull request template with type classification and better validation steps
 - Enhanced pre-commit configuration with EditorConfig checking
@@ -111,6 +119,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Implementation Resources**: Guides for adoption, customization, and platform integration
 - **Examples**: Real-world scenarios showing policy application
 
+[2.0.1]: https://github.com/OpenPhysical/BoundedContributionPolicy/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/OpenPhysical/BoundedContributionPolicy/compare/v1.2.0...v2.0.0
 [1.2.0]: https://github.com/OpenPhysical/BoundedContributionPolicy/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/OpenPhysical/BoundedContributionPolicy/compare/v1.0.0...v1.1.0

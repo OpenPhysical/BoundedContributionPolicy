@@ -95,7 +95,7 @@ The policy can be adapted for different project types:
 - Adapt language for organizational context
 - Include references to internal processes
 
-See [CUSTOMIZATION.md](CUSTOMIZATION.md) for detailed adaptation guidance.
+See [CUSTOMISATION.md](CUSTOMISATION.md) for detailed adaptation guidance.
 
 ## Enforcement Guidelines
 
@@ -103,7 +103,7 @@ See [CUSTOMIZATION.md](CUSTOMIZATION.md) for detailed adaptation guidance.
 
 - Apply principles uniformly across all contributors
 - Document decisions for consistency
-- Focus on behavior and content, not individuals
+- Focus on behaviour and content, not individuals
 
 ### Escalation Process
 

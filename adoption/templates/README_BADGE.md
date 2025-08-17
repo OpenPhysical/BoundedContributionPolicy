@@ -44,8 +44,8 @@ This project follows the [Bounded Contribution Policy](CODE_OF_CONDUCT.md) to en
 
 ## Customization Options
 
-You can customize the badge colors and text:
+You can customise the badge colours and text:
 
-- Change "blue" to other colors: red, green, yellow, orange, etc.
+- Change "blue" to other colours: red, green, yellow, orange, etc.
 - Modify the text labels to fit your project style
 - Add version numbers if tracking policy versions

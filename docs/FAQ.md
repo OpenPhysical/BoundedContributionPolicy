@@ -20,7 +20,7 @@ through clear scope boundaries and individual evaluation criteria.
 
 ### How does this differ from traditional codes of conduct?
 
-Traditional codes of conduct often focus on behavior and community standards,
+Traditional codes of conduct often focus on behaviour and community standards,
 while the Bounded Contribution Policy focuses specifically on contribution relevance and technical evaluation criteria.
 
 ### Who should use this policy?
@@ -40,7 +40,7 @@ including open source libraries, research projects, standards development, and i
 ### Can I modify the policy for my project?
 
 Yes, the policy is available under the MIT License for free adoption and modification.
-See the [Customization Guide](adoption/CUSTOMIZATION.md) for guidance on maintaining core principles while adapting to your needs.
+See the [Customisation Guide](adoption/CUSTOMISATION.md) for guidance on maintaining core principles while adapting to your needs.
 
 ### Do I need special tools or platforms to use this policy?
 
@@ -178,7 +178,7 @@ The goal isn't to dismiss anyone's concerns—it's to keep technical projects pr
 
 - Review the [Adoption Guide](adoption/ADOPTION_GUIDE.md) for step-by-step instructions
 - Use provided templates for common scenarios
-- Adapt examples from the [Customization Guide](adoption/CUSTOMIZATION.md)
+- Adapt examples from the [Customisation Guide](adoption/CUSTOMISATION.md)
 - Contact the project maintainers for specific questions
 
 ### How can I contribute improvements to this policy?

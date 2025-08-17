@@ -140,7 +140,7 @@ This request needs more technical specifics to evaluate. Please provide:
 ```
 To consider this feature, we need:
 - Specific functionality description
-- Expected behavior examples
+- Expected behaviour examples
 - Technical constraints or requirements
 - How this aligns with project objectives
 ```
