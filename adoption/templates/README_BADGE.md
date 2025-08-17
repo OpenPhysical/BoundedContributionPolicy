@@ -5,13 +5,13 @@ Add this badge to your project README to indicate use of the Bounded Contributio
 ## Markdown Format
 
 ```markdown
-[![Bounded Contribution Policy](https://img.shields.io/badge/Contribution%20Policy-Bounded-blue)](https://github.com/mistial-dev/BoundedContributionPolicy)
+[![Bounded Contribution Policy](https://img.shields.io/badge/Contribution%20Policy-Bounded-blue)](https://github.com/OpenPhysical/BoundedContributionPolicy)
 ```
 
 ## HTML Format
 
 ```html
-<a href="https://github.com/mistial-dev/BoundedContributionPolicy">
+<a href="https://github.com/OpenPhysical/BoundedContributionPolicy">
   <img src="https://img.shields.io/badge/Contribution%20Policy-Bounded-blue" alt="Bounded Contribution Policy">
 </a>
 ```
@@ -23,7 +23,7 @@ Add this badge to your project README to indicate use of the Bounded Contributio
 ```markdown
 # My Technical Project
 
-[![Bounded Contribution Policy](https://img.shields.io/badge/Contribution%20Policy-Bounded-blue)](https://github.com/mistial-dev/BoundedContributionPolicy)
+[![Bounded Contribution Policy](https://img.shields.io/badge/Contribution%20Policy-Bounded-blue)](https://github.com/OpenPhysical/BoundedContributionPolicy)
 
 A focused technical project that maintains clear contribution guidelines.
 
@@ -35,10 +35,11 @@ This project follows the [Bounded Contribution Policy](CODE_OF_CONDUCT.md) to en
 
 ```markdown
 <!-- Compact version -->
-[![BCP](https://img.shields.io/badge/BCP-Bounded-blue)](https://github.com/mistial-dev/BoundedContributionPolicy)
+[![BCP](https://img.shields.io/badge/BCP-Bounded-blue)](https://github.com/OpenPhysical/BoundedContributionPolicy)
 
 <!-- With version -->
-[![Bounded Contribution Policy v1.0](https://img.shields.io/badge/Contribution%20Policy-Bounded%20v1.0-blue)](https://github.com/mistial-dev/BoundedContributionPolicy)
+[![Bounded Contribution Policy v1.0](https://img.shields.io/badge/Contribution%20Policy-Bounded%20v1.0-blue)]
+(https://github.com/OpenPhysical/BoundedContributionPolicy)
 ```
 
 ## Customization Options

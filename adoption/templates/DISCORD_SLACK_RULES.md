@@ -9,7 +9,7 @@ This channel maintains focus on [project name] technical development and impleme
 ### Guidelines
 
 - **Stay on topic**: Discussions must relate to project technical objectives
-- **Be specific**: Provide technical details, code examples, or clear problem descriptions  
+- **Be specific**: Provide technical details, code examples, or clear problem descriptions
 - **Constructive feedback**: Offer actionable suggestions and improvements
 - **Individual focus**: Evaluate ideas and contributions based on technical merit
 
@@ -31,7 +31,8 @@ This channel maintains focus on [project name] technical development and impleme
 
 ### Enforcement
 
-This channel follows our [Bounded Contribution Policy](link-to-policy). Moderators will redirect off-topic discussions and may restrict access for repeated violations.
+This channel follows our [Bounded Contribution Policy](link-to-policy). Moderators will redirect off-topic discussions and may
+restrict access for repeated violations.
 
 ---
 
@@ -40,7 +41,8 @@ This channel follows our [Bounded Contribution Policy](link-to-policy). Moderato
 ### Slack Bot Response
 
 ```
-/remind @channel This channel follows the Bounded Contribution Policy. Please keep discussions focused on technical aspects of [project name]. Off-topic messages will be moved to #general.
+/remind @channel This channel follows the Bounded Contribution Policy. Please keep discussions focused on technical aspects of
+[project name]. Off-topic messages will be moved to #general.
 ```
 
 ### Discord AutoMod Keywords
@@ -70,7 +72,8 @@ Questions? Check our FAQ: [link]
 ### Slack Channel Description
 
 ```
-Technical development discussion for [project name]. Follows Bounded Contribution Policy - technical focus, individual evaluation, constructive feedback. See pinned messages for guidelines.
+Technical development discussion for [project name]. Follows Bounded Contribution Policy - technical focus, individual evaluation,
+constructive feedback. See pinned messages for guidelines.
 ```
 
 ## Moderation Response Templates
@@ -78,19 +81,22 @@ Technical development discussion for [project name]. Follows Bounded Contributio
 ### Gentle Redirect
 
 ```
-This conversation is getting off-topic for our technical focus. Let's move general discussion to #general and keep this channel focused on [project name] development. Thanks!
+This conversation is getting off-topic for our technical focus. Let's move general discussion to #general and keep this channel
+focused on [project name] development. Thanks!
 ```
 
 ### Policy Reference
 
 ```
-As a reminder, this channel follows our Bounded Contribution Policy which keeps discussions focused on technical objectives. Please see [policy link] for details on our guidelines.
+As a reminder, this channel follows our Bounded Contribution Policy which keeps discussions focused on technical objectives.
+Please see [policy link] for details on our guidelines.
 ```
 
 ### Escalation Template
 
 ```
-This discussion has moved outside our technical scope. I'm archiving this thread. For questions about our policy, please see [policy link] or contact [maintainer].
+This discussion has moved outside our technical scope. I'm archiving this thread. For questions about our policy, please see
+[policy link] or contact [maintainer].
 ```
 
 ## Channel Setup Instructions

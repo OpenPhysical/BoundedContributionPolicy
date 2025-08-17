@@ -1,6 +1,7 @@
 # Customization Guide
 
-The Bounded Contribution Policy can be adapted for different project types, organizational contexts, and technical domains while maintaining its core principles.
+The Bounded Contribution Policy can be adapted for different project types, organizational contexts, and technical domains
+while maintaining its core principles.
 
 ## Core Principles to Maintain
 
@@ -27,7 +28,8 @@ When customizing the policy, preserve these essential elements:
 
 ```markdown
 ### Technical Standards
-Contributions must address library functionality, performance, compatibility, or documentation. Discussions should focus on implementation details, API design, testing approaches, or user experience improvements.
+Contributions must address library functionality, performance, compatibility, or documentation. Discussions should focus on
+implementation details, API design, testing approaches, or user experience improvements.
 ```
 
 ### Research Projects
@@ -43,7 +45,8 @@ Contributions must address library functionality, performance, compatibility, or
 
 ```markdown
 ### Research Relevance
-All contributions must directly support the research objectives, methodology validation, or result reproducibility. Discussions should center on technical implementation, experimental design, or data analysis approaches.
+All contributions must directly support the research objectives, methodology validation, or result reproducibility.
+Discussions should center on technical implementation, experimental design, or data analysis approaches.
 ```
 
 ### Internal Corporate Projects
@@ -59,7 +62,8 @@ All contributions must directly support the research objectives, methodology val
 
 ```markdown
 ### Business Alignment
-Contributions must support defined business requirements and project deliverables. Discussions should focus on technical implementation, system design, security considerations, or delivery objectives.
+Contributions must support defined business requirements and project deliverables. Discussions should focus on technical
+implementation, system design, security considerations, or delivery objectives.
 ```
 
 ### Standards Development
@@ -75,7 +79,8 @@ Contributions must support defined business requirements and project deliverable
 
 ```markdown
 ### Standards Focus
-Contributions must address specification development, implementation guidance, compatibility testing, or technical validation. Discussions should center on standard requirements, technical feasibility, or implementation considerations.
+Contributions must address specification development, implementation guidance, compatibility testing, or technical validation.
+Discussions should center on standard requirements, technical feasibility, or implementation considerations.
 ```
 
 ## Language Variations
@@ -112,7 +117,8 @@ Some projects may need broader technical discussions:
 
 ```markdown
 ### Extended Technical Relevance
-Contributions may address direct technical implementation, related tools and infrastructure, developer experience improvements, or community technical resources that support the project objectives.
+Contributions may address direct technical implementation, related tools and infrastructure, developer experience improvements,
+or community technical resources that support the project objectives.
 ```
 
 ### Narrowed Focus
@@ -121,7 +127,8 @@ Highly specialized projects may need tighter boundaries:
 
 ```markdown
 ### Specific Domain Focus
-All contributions must directly address [specific technical domain]. Adjacent topics, even if technically related, are outside the project scope unless they directly impact [primary objective].
+All contributions must directly address [specific technical domain]. Adjacent topics, even if technically related, are outside
+the project scope unless they directly impact [primary objective].
 ```
 
 ## Enforcement Adaptations

@@ -31,4 +31,5 @@ Explain the project type or situation where this clarification would be helpful:
 Any thoughts on how this should be implemented or potential challenges.
 
 ---
-**Note:** This repository focuses on practical improvements to the Bounded Contribution Policy framework. Please ensure your issue relates to policy implementation, clarification, or supporting resources.
+**Note:** This repository focuses on practical improvements to the Bounded Contribution Policy framework.
+Please ensure your issue relates to policy implementation, clarification, or supporting resources.

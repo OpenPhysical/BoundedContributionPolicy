@@ -26,8 +26,8 @@ assignees: ''
 
 ## Objective
 <!-- For software: Describe the technical problem or improvement
-     For documentation: Describe the information gap or clarity issue
-     For policy: Describe the governance challenge or adoption barrier -->
+  For documentation: Describe the information gap or clarity issue
+  For policy: Describe the governance challenge or adoption barrier -->
 Describe the specific problem or improvement opportunity.
 
 ## Proposed Solution
@@ -35,9 +35,9 @@ Provide a clear description of what you'd like to see implemented.
 
 ## Implementation Details
 <!-- Customize based on project type:
-     Software: Implementation approach, dependencies, performance
-     Documentation: Structure changes, examples needed, clarity improvements
-     Policy: Adoption considerations, compatibility, enforcement challenges -->
+  Software: Implementation approach, dependencies, performance
+  Documentation: Structure changes, examples needed, clarity improvements
+  Policy: Adoption considerations, compatibility, enforcement challenges -->
 - Implementation approach
 - Dependencies or requirements
 - Compatibility considerations
@@ -47,7 +47,8 @@ Provide a clear description of what you'd like to see implemented.
 Include any other technical context, examples, or references.
 
 ---
-**Note:** This project follows the [Bounded Contribution Policy](../CODE_OF_CONDUCT.md). Please ensure your request aligns with our technical objectives and focus areas.
+**Note:** This project follows the [Bounded Contribution Policy](../CODE_OF_CONDUCT.md). Please ensure your request aligns with our
+technical objectives and focus areas.
 ```
 
 ## Bug Report Template
@@ -65,8 +66,8 @@ assignees: ''
 
 ## Problem Description
 <!-- For software: Technical issue description
-     For documentation: Incorrect/missing information
-     For policy: Implementation challenge or ambiguity -->
+  For documentation: Incorrect/missing information
+  For policy: Implementation challenge or ambiguity -->
 Clear description of the issue.
 
 ## Reproduction Steps / How to Observe
@@ -82,9 +83,9 @@ What actually happens.
 
 ## Context
 <!-- Customize based on project type:
-     Software: OS, version, configuration
-     Documentation: Section, version, reader perspective
-     Policy: Organization type, team size, implementation stage -->
+  Software: OS, version, configuration
+  Documentation: Section, version, reader perspective
+  Policy: Organization type, team size, implementation stage -->
 - Environment/Context: [relevant details]
 - Version: [if applicable]
 - Additional context: [project-specific information]
@@ -116,15 +117,16 @@ Provide a clear description of the issue or request.
 
 ## Context
 <!-- For software: Include technical details, code examples
-     For documentation: Include sections, examples needed
-     For policy: Include use cases, adoption scenarios -->
+  For documentation: Include sections, examples needed
+  For policy: Include use cases, adoption scenarios -->
 Include relevant details, examples, or information.
 
 ## Acceptance Criteria
 Describe the requirements for this issue to be considered resolved.
 
 ---
-**Project Focus:** This project maintains focused contributions through our [Bounded Contribution Policy](CODE_OF_CONDUCT.md). Please ensure your issue relates to our project objectives.
+**Project Focus:** This project maintains focused contributions through our [Bounded Contribution Policy](CODE_OF_CONDUCT.md).
+Please ensure your issue relates to our project objectives.
 ```
 
 ## Policy/Governance Project Template Example

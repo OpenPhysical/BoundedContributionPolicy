@@ -5,6 +5,34 @@ All notable changes to the Bounded Contribution Policy framework will be documen
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.0] - 2025-08-17
+
+### Changed
+
+- **BREAKING**: Complete rewrite of README introduction for improved clarity and inclusivity
+- **BREAKING**: Moved "Sir, this is a Wendy's" content from README to FAQ for better context
+- Renamed "Sir, this is a Wendy's" section to "Overall Philosophy" in README
+- Enhanced policy language to be welcoming while maintaining firm boundaries
+- Updated all GitHub repository references from mistial-dev to OpenPhysical organization
+- Improved CODE_OF_CONDUCT.md with more inclusive language
+- Added cultural sensitivity notes about different ways to redirect conversations
+- Lowered reading level throughout for better accessibility
+- Replaced casual dismissive examples with professional, firm alternatives
+
+### Added
+
+- Mention of OpenPhysical Foundation as first adopter and standards body
+- Clear statement that people from all backgrounds bring valuable technical skills
+- Expanded explanation of the Wendy's meme in FAQ with respectful usage guidance
+- More professional redirect examples in docs/EXAMPLES.md
+
+### Fixed
+
+- Pre-commit configuration to use specific commit hashes
+- Replaced broken markdown-table-formatter with markdownlint-cli2
+- All markdown linting violations resolved
+- EditorConfig line length aligned with markdownlint settings (160 chars)
+
 ## [1.2.0] - 2025-08-06
 
 ### Added
@@ -45,7 +73,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Issue template chooser configuration (config.yml)
 - Flexibility guidance for adapting templates to different project types
 - Policy/governance project template examples
-- The "Sir, This Is a Wendy's" Principle section in EXAMPLES.md
+- The "Sir, This Is a Wendy's" Principle section in docs/EXAMPLES.md
 
 ### Changed
 
@@ -83,5 +111,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Implementation Resources**: Guides for adoption, customization, and platform integration
 - **Examples**: Real-world scenarios showing policy application
 
-[1.1.0]: https://github.com/mistial-dev/BoundedContributionPolicy/compare/v1.0.0...v1.1.0
-[1.0.0]: https://github.com/mistial-dev/BoundedContributionPolicy/releases/tag/v1.0.0
+[2.0.0]: https://github.com/OpenPhysical/BoundedContributionPolicy/compare/v1.2.0...v2.0.0
+[1.2.0]: https://github.com/OpenPhysical/BoundedContributionPolicy/compare/v1.1.0...v1.2.0
+[1.1.0]: https://github.com/OpenPhysical/BoundedContributionPolicy/compare/v1.0.0...v1.1.0
+[1.0.0]: https://github.com/OpenPhysical/BoundedContributionPolicy/releases/tag/v1.0.0

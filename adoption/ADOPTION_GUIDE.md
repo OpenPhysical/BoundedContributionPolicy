@@ -44,7 +44,9 @@ Add a section referencing the policy and its key principles without extensive de
 **Announcement Template:**
 
 ```
-We've adopted the Bounded Contribution Policy to maintain our technical focus and provide clear guidelines for contributions. This policy helps ensure discussions remain relevant to our project objectives while treating all contributions fairly based on technical merit.
+We've adopted the Bounded Contribution Policy to maintain our technical focus and provide clear guidelines for contributions.
+This policy helps ensure discussions remain relevant to our project objectives while treating all contributions fairly
+based on technical merit.
 
 The policy is available at: [link to policy]
 ```
@@ -52,7 +54,8 @@ The policy is available at: [link to policy]
 **Issue Response Template:**
 
 ```
-This topic falls outside our project's technical scope as defined in our contribution policy. Please keep discussions focused on [specific technical area]. For questions about the policy, see: [link]
+This topic falls outside our project's technical scope as defined in our contribution policy.
+Please keep discussions focused on [specific technical area]. For questions about the policy, see: [link]
 ```
 
 ### Platform-Specific Notes

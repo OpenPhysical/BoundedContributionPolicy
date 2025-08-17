@@ -9,7 +9,7 @@ This project follows the [Bounded Contribution Policy](CODE_OF_CONDUCT.md) to ma
 ### Key Principles
 
 - **Technical Relevance**: Contributions must directly support project objectives
-- **Individual Evaluation**: Work is assessed based on technical merit, not contributor identity  
+- **Individual Evaluation**: Work is assessed based on technical merit, not contributor identity
 - **Clear Communication**: Discussions should be specific and actionable
 - **Project Focus**: We maintain a neutral environment centered on technical development
 
@@ -52,7 +52,8 @@ Thank you for your interest in contributing to [Project Name]. This guide outlin
 
 ## Contribution Policy
 
-This project uses the [Bounded Contribution Policy](CODE_OF_CONDUCT.md) to maintain focus on technical objectives while ensuring fair evaluation of all contributions.
+This project uses the [Bounded Contribution Policy](CODE_OF_CONDUCT.md) to maintain focus on technical objectives while
+ensuring fair evaluation of all contributions.
 
 ## Getting Started
 

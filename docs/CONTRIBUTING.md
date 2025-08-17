@@ -54,7 +54,7 @@ This project follows its own Bounded Contribution Policy, focusing on practical 
 
 ### EditorConfig
 
-This project uses [EditorConfig](https://editorconfig.org/) to maintain consistent formatting. 
+This project uses [EditorConfig](https://editorconfig.org/) to maintain consistent formatting.
 Install the EditorConfig plugin for your editor to automatically apply:
 
 - UTF-8 encoding
@@ -77,19 +77,20 @@ We use pre-commit hooks to maintain code quality:
 
 1. **Install pre-commit** (first time setup):
 
-   ```bash
-   pip install pre-commit
-   pre-commit install
-   ```
+  ```bash
+  pip install pre-commit
+  pre-commit install
+  ```
 
-2. **Hooks will run automatically** on commit, checking:
-   - Markdown formatting and tables
-   - EditorConfig compliance
-   - Trailing whitespace
-   - File endings
-   - Large file detection
+1. **Hooks will run automatically** on commit, checking:
 
-3. **Manual run**: `pre-commit run --all-files`
+- Markdown formatting and tables
+- EditorConfig compliance
+- Trailing whitespace
+- File endings
+- Large file detection
+
+1. **Manual run**: `pre-commit run --all-files`
 
 ### What's Not In Scope
 
@@ -106,7 +107,7 @@ We use pre-commit hooks to maintain code quality:
 ### Suggesting Improvements
 
 1. **Review existing materials** to understand current approach
-2. **Check existing issues** to avoid duplicates  
+2. **Check existing issues** to avoid duplicates
 3. **Create a specific issue** describing the improvement
 4. **Focus on practical benefits** of the proposed change
 
@@ -179,7 +180,7 @@ Changes must:
 
 - Review the [FAQ](FAQ.md) for common questions
 - Read the [Rationale](RATIONALE.md) to understand design decisions
-- Check existing [issues](https://github.com/mistial-dev/BoundedContributionPolicy/issues) for ongoing discussions
+- Check existing [issues](https://github.com/OpenPhysical/BoundedContributionPolicy/issues) for ongoing discussions
 
 ### Getting Help
 

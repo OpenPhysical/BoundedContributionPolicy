@@ -37,6 +37,7 @@ Describe the specific modifications made and why.
 - [ ] Checked for unintended consequences
 
 ### Quality Assurance
+
 - [ ] All markdown files pass linting (`npm run lint:md`)
 - [ ] Line lengths follow project guidelines
 - [ ] Links are functional and point to correct resources
@@ -90,8 +91,8 @@ Steps for reviewers to verify the changes:
 ---
 **Policy Compliance:** This contribution follows the [Bounded Contribution Policy](../CODE_OF_CONDUCT.md) with focus on technical value and project relevance.
 
-<!-- 
-For maintainers: Remember the "Sir, this is a Wendy's" principle - 
-keep discussions focused on the practical aspects of policy implementation 
+<!--
+For maintainers: Remember the "Sir, this is a Wendy's" principle -
+keep discussions focused on the practical aspects of policy implementation
 rather than philosophical debates about contribution policies in general.
 -->

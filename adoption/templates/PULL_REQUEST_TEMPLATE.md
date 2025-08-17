@@ -34,9 +34,9 @@ Highlight specific areas where reviewer attention is needed:
 
 ## Verification Steps
 Steps for reviewers to verify the changes:
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 ---
 **Policy Compliance:** This contribution follows the [Bounded Contribution Policy](CODE_OF_CONDUCT.md) with focus on technical value and project relevance.
@@ -91,7 +91,8 @@ For use with GitHub Actions or bots:
 
 ```markdown
 <!-- Off-topic response -->
-Thank you for your interest in this project. This discussion appears to be outside our technical scope as defined in our [Bounded Contribution Policy](CODE_OF_CONDUCT.md). 
+Thank you for your interest in this project. This discussion appears to be outside our technical scope as defined in our
+[Bounded Contribution Policy](CODE_OF_CONDUCT.md).
 
 Please focus on technical aspects directly related to [project name] functionality, implementation, or documentation.
 

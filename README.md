@@ -1,38 +1,64 @@
 # Bounded Contribution Policy
 
+<!-- BADGIE TIME -->
 
-A technical collaboration framework that maintains project focus through clear contribution guidelines and neutral evaluation criteria.
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
 
-# Sir, this is a Wendy's
+<!-- END BADGIE TIME -->
 
-![Sir, this is a Wendy's](res/images/wendys.jpg)
+[![Organization](https://img.shields.io/badge/Organization-OpenPhysical-blue)](https://github.com/openphysical)
+[![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](docs/CHANGELOG.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Policy Type](https://img.shields.io/badge/policy-technical%20collaboration-blueviolet)](CODE_OF_CONDUCT.md)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/OpenPhysical/BoundedContributionPolicy/graphs/commit-activity)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
+[![GitHub issues](https://img.shields.io/github/issues/OpenPhysical/BoundedContributionPolicy)](
+  https://github.com/OpenPhysical/BoundedContributionPolicy/issues)
+[![Adoption Ready](https://img.shields.io/badge/adoption-ready-success)](docs/ADOPTION_FLOW.md)
+[![Markdown](https://img.shields.io/badge/markdown-linted-green)](https://github.com/DavidAnson/markdownlint)
+[![GitHub stars](https://img.shields.io/github/stars/OpenPhysical/BoundedContributionPolicy?style=social)](
+  https://github.com/OpenPhysical/BoundedContributionPolicy)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Open_Physical?style=social)](https://twitter.com/Open_Physical)
 
-*Sometimes you just need to remind folks that this is a code repository, not a philosophy seminar.*
+A straightforward policy for technical projects that need to stay focused on engineering goals.
 
-**Current Version: 1.2.0** ([See Changelog](docs/CHANGELOG.md))
+## Overall Philosophy
+
+People from all backgrounds and cultures bring valuable technical skills to projects. This policy helps everyone work together on technical challenges
+by keeping discussions focused on code, standards, and implementation.
+
+Technical projects work best when conversations stay on-topic. This policy creates clear guidelines so contributors know what kinds of discussions help
+the project move forward. It's not about limiting people—it's about channelling everyone's energy toward building great technical solutions.
+
+The OpenPhysical Foundation uses this policy as a standards body to maintain focus on technical specifications and implementation details.
+
+**Current Version: 2.0.0** ([See Changelog](docs/CHANGELOG.md))
 
 ## 📊 At a Glance
 
-| Feature | Bounded Contribution Policy | Traditional CoC |
-|---------|---------------------------|-----------------|
-| **Focus** | 🎯 Technical contributions | 👥 Community behavior |
-| **Scope** | 📋 Project-specific objectives | 🌐 Broad social guidelines |
-| **Enforcement** | ⚡ Clear, technical criteria | 🤔 Subjective interpretation |
-| **Setup Time** | ⏱️ < 5 minutes | ⏰ Hours of customization |
-| **Maintenance** | 🔧 Minimal | 📈 Ongoing community management |
-| **Primary Benefit** | 🚀 Maintained project focus | 🛡️ Safe community space |
+| Feature             | Bounded Contribution Policy    | Traditional CoC                 |
+|---------------------|--------------------------------|---------------------------------|
+| **Focus**           | 🎯 Technical contributions     | 👥 Community behavior           |
+| **Scope**           | 📋 Project-specific objectives | 🌐 Broad social guidelines      |
+| **Enforcement**     | ⚡ Clear, technical criteria    | 🤔 Subjective interpretation    |
+| **Setup Time**      | ⏱️ < 5 minutes                 | ⏰ Hours of customization        |
+| **Maintenance**     | 🔧 Minimal                     | 📈 Ongoing community management |
+| **Primary Benefit** | 🚀 Maintained project focus    | 🛡️ Safe community space        |
 
 ## Overview
 
-The Bounded Contribution Policy provides a straightforward approach to managing project contributions by establishing clear boundaries around scope and evaluation. It emphasizes technical merit, project relevance, and maintains a neutral environment focused on productive collaboration.
+This policy helps projects maintain their technical focus while welcoming contributions from everyone. It provides clear guidelines about project scope
+and helps ensure discussions remain productive and on-topic.
+
+By establishing these boundaries upfront, contributors can focus their valuable time and expertise on advancing the project's technical goals.
 
 ## 🎯 Key Principles
 
-- 🎯 **Project-Focused**: All contributions must directly support technical objectives
+- 🎯 **Project-Focused**: All contributions must directly support technical goals
 - ⚖️ **Individual Evaluation**: Work is assessed based on technical value, not contributor identity
 - 🚧 **Clear Boundaries**: Explicit scope limitations reduce ambiguity and conflict
 - 🧘 **Neutral Environment**: Technical discussions remain separate from other topics
-- 🎛️ **Maintainer Autonomy**: Project leads retain control over direction and priorities
+- 🎛️ **Maintainer Autonomy**: Project leads retain control over the direction of the project and its priorities
 
 ## 💡 Why Use This Policy
 
@@ -52,12 +78,12 @@ Traditional governance models can introduce complexity and scope creep that dist
 
 ## 📚 Implementation Resources
 
-- 🚀 **[Adoption Flow](ADOPTION_FLOW.md)** - Visual guide to implementing the policy
+- 🚀 **[Adoption Flow—](docs/ADOPTION_FLOW.md)**Visual guide to implementing the policy
 - 📖 **[Adoption Guide](adoption/ADOPTION_GUIDE.md)** - Step-by-step implementation
 - 🛠️ **[Templates](adoption/templates/)** - Ready-to-use templates for different platforms
-- 🎨 **[Customization Guide](adoption/CUSTOMIZATION.md)** - Adapting the policy for your needs
-- 🤔 **[FAQ](FAQ.md)** - Common questions and answers
-- 📝 **[Changelog](docs/CHANGELOG.md)** - Version history and updates
+- 🎨 **[Customisation Guide—](adoption/CUSTOMIZATION.md)**Adapting the policy for your needs
+- 🤔 **[FAQ—](docs/FAQ.md)**Common questions and answers
+- 📝 **[Changelog—](docs/CHANGELOG.md)**Version history and updates
 
 ## 📖 Examples
 
@@ -70,8 +96,8 @@ This policy works well for:
 
 ## 📄 License
 
-This policy is available under the MIT License, allowing free adoption and modification for any project.
+This policy is available under the MIT Licence, allowing free adoption and modification for any project.
 
 ## 🤝 Contributing
 
-Suggestions for improving this policy are welcome. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on proposing changes.
+Suggestions for improving this policy are welcome. Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines on proposing changes.

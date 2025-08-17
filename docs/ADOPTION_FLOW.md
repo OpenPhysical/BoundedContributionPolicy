@@ -7,30 +7,30 @@ flowchart TD
     A[🏗️ New Project] --> B{📋 Need Contribution Guidelines?}
     B -->|Yes| C[📥 Copy CODE_OF_CONDUCT.md]
     B -->|No| Z[❌ Policy Not Needed]
-    
+
     C --> D[🔧 Customize for Project]
     D --> E[📝 Reference in README]
     E --> F[🛠️ Add Issue Templates]
     F --> G[🔗 Update Contributing Guide]
-    
+
     G --> H[🎉 Launch with Policy]
     H --> I{🤔 Getting Off-Topic Issues?}
-    
+
     I -->|Yes| J[🍔 Apply Wendy's Principle]
     I -->|No| K[✅ Policy Working Well]
-    
+
     J --> L["Sir, this is a Wendy's"]
     L --> M[🎯 Redirect to Project Focus]
     M --> K
-    
+
     K --> N{📈 Project Growing?}
     N -->|Yes| O[📚 Review Templates]
     N -->|No| P[🔄 Continue as Usual]
-    
+
     O --> Q[🎨 Customize Further]
     Q --> P
     P --> I
-    
+
     style A fill:#e1f5fe
     style H fill:#c8e6c9
     style K fill:#c8e6c9

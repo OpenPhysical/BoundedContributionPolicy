@@ -34,7 +34,7 @@ else
     echo "⚠️  Issue templates already exist. Skipping..."
 fi
 
-# Copy PR template if it doesn't exist  
+# Copy PR template if it doesn't exist
 if [ ! -f ".github/PULL_REQUEST_TEMPLATE.md" ] && [ ! -f ".github/pull_request_template.md" ]; then
     echo "📝 Copying pull request template..."
     cp .github/PULL_REQUEST_TEMPLATE.md .github/
@@ -46,11 +46,11 @@ fi
 echo ""
 echo "🎉 Setup complete! Next steps:"
 echo ""
-echo "1. 📖 Read the policy: https://github.com/mistial-dev/BoundedContributionPolicy"
+echo "1. 📖 Read the policy: https://github.com/OpenPhysical/BoundedContributionPolicy"
 echo "2. 🔧 Customize templates in .github/ for your project"
 echo "3. 📝 Reference the policy in your README.md"
-echo "4. 🏷️  Add a badge: [![Bounded Contribution Policy](https://img.shields.io/badge/Contribution%20Policy-Bounded-blue)](https://github.com/mistial-dev/BoundedContributionPolicy)"
+echo "4. 🏷️  Add a badge: [![Bounded Contribution Policy](https://img.shields.io/badge/Contribution%20Policy-Bounded-blue)](https://github.com/OpenPhysical/BoundedContributionPolicy)"
 echo ""
-echo "Questions? Check the FAQ: https://github.com/mistial-dev/BoundedContributionPolicy/blob/main/FAQ.md"
+echo "Questions? Check the FAQ: https://github.com/OpenPhysical/BoundedContributionPolicy/blob/main/FAQ.md"
 echo ""
 echo "Sir, this is now a Wendy's. 🍔"

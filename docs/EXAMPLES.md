@@ -29,14 +29,16 @@ This document provides practical examples of how the Bounded Contribution Policy
 
 ```
 Contributor: "This library should support social justice by validating data in a way that..."
-Maintainer: "Thanks for your interest. This library focuses on data validation functionality. For feature requests, please describe the technical requirements and use cases that would benefit from the change."
+Maintainer: "Thanks for your interest. This library focuses on data validation functionality.
+For feature requests, please describe the technical requirements and use cases that would benefit from the change."
 ```
 
 **The Wendy's Moment:**
 
 ```
 Contributor: "Have you considered the broader implications of requiring email validation? This perpetuates digital exclusion and..."
-Maintainer: "Sir, this is a validation library. We validate according to RFC 5322. If you have suggestions for improving our regex patterns or supporting additional email formats, we'd love to hear them!"
+Maintainer: "Sir, this is a validation library. We validate according to RFC 5322.
+If you have suggestions for improving our regex patterns or supporting additional email formats, we'd love to hear them!"
 ```
 
 ### Research Project
@@ -64,7 +66,8 @@ Maintainer: "Sir, this is a validation library. We validate according to RFC 532
 
 ```
 Contributor: "This research contributes to surveillance capitalism..."
-Maintainer: "This project focuses on technical implementation of classification algorithms. If you have concerns about specific technical aspects of the implementation, please provide detailed feedback on the code or methodology."
+Maintainer: "This project focuses on technical implementation of classification algorithms.
+If you have concerns about specific technical aspects of the implementation, please provide detailed feedback on the code or methodology."
 ```
 
 ### Internal Corporate Project
@@ -91,7 +94,8 @@ Maintainer: "This project focuses on technical implementation of classification 
 
 ```
 Team Member: "I think the company's approach to remote work affects this project..."
-Project Lead: "Let's focus on the technical requirements for the data processing service. If remote work impacts specific technical implementations or testing procedures, please describe those technical considerations."
+Project Lead: "Let's focus on the technical requirements for the data processing service.
+If remote work impacts specific technical implementations or testing procedures, please describe those technical considerations."
 ```
 
 ## Response Templates
@@ -101,19 +105,22 @@ Project Lead: "Let's focus on the technical requirements for the data processing
 **Gentle Redirect:**
 
 ```
-This discussion is moving outside our project's technical scope. Let's refocus on [specific technical aspect]. For broader topics, consider [appropriate venue].
+This discussion is moving outside our project's technical scope.
+Let's refocus on [specific technical aspect]. For broader topics, consider [appropriate venue].
 ```
 
 **Policy Reference:**
 
 ```
-This project follows the Bounded Contribution Policy, which keeps discussions focused on technical objectives. Please see [policy link] for guidelines on relevant contributions.
+This project follows the Bounded Contribution Policy, which keeps discussions focused on technical objectives.
+Please see [policy link] for guidelines on relevant contributions.
 ```
 
 **Constructive Redirect:**
 
 ```
-Thanks for your interest. To help with this project, we'd benefit from [specific technical contribution]. See our contributing guidelines for examples of helpful contributions.
+Thanks for your interest. To help with this project, we'd benefit from [specific technical contribution].
+See our contributing guidelines for examples of helpful contributions.
 ```
 
 ### Requesting More Technical Detail
@@ -260,25 +267,35 @@ Focus on specification clarity, implementation feasibility, backward compatibili
 - Contributor confusion suggests need for better examples
 - Maintainer burden indicates enforcement process issues
 
-## The "Sir, This Is a Wendy's" Principle
+## Handling Off-Topic Discussions
 
-![Sir, this is a Wendy's](res/images/wendys.jpg)
+Here are examples of professional, firm redirects when discussions move beyond technical scope:
 
-Sometimes the best way to handle off-topic discussions is with gentle humor. The Wendy's meme perfectly captures the essence of the Bounded Contribution Policy:
+**When someone raises philosophical concerns about your code:**
 
-**When to invoke the Wendy's Principle:**
+- "I understand you have broader concerns, but this project focuses specifically on [technical function].
+  Let's keep our discussion on the implementation details."
+- "That's an interesting perspective. For this project, we need to focus on the technical requirements.
+  Could you frame this in terms of specific code improvements?"
 
-- Someone asks about the philosophical implications of your sorting algorithm
-- A contributor wants to discuss how your regex patterns reflect societal power structures
-- An issue is opened about the carbon footprint of your unit tests
-- Someone suggests your API design should "center marginalized voices"
+**When societal implications are raised:**
 
-**Example responses:**
+- "We appreciate your engagement. This project maintains a technical focus.
+  If you have suggestions about the code functionality, we'd be happy to discuss those."
+- "Thank you for your input. Our scope is limited to the technical implementation. Let's focus on how we can improve the code itself."
 
-- "I appreciate your perspective, but this is a JSON parser. We're focused on parsing JSON."
-- "Sir, this is a build tool. We're here to build software, not rebuild society."
-- "Thanks for the suggestion! Our scope is limited to making HTTP requests, not examining their existential meaning."
+**When discussions become ideological:**
 
-Remember: It's not about being dismissive—it's about maintaining focus so everyone can be productive. When someone orders a philosophy debate at your code repository, it's perfectly fine to remind them they're at a Wendy's.
+- "This conversation has moved beyond our project's technical boundaries. Please redirect to discussions about code, performance, or functionality."
+- "We need to maintain our technical focus. This isn't the appropriate venue for that discussion. Do you have any technical feedback on the implementation?"
+
+**Firmer responses when needed:**
+
+- "This is outside our project scope. We will not be addressing non-technical concerns here."
+- "We've explained our technical focus. Further off-topic discussions will be closed without response."
+- "This project is for technical collaboration only. Please respect these boundaries or find a more appropriate forum."
+
+Remember: Be consistent, be clear, and be firm. You're not being unkind by maintaining boundaries—you're ensuring everyone can contribute effectively
+to the technical goals.
 
 These examples demonstrate how the policy provides clear, consistent guidance for maintaining technical focus while encouraging productive collaboration.

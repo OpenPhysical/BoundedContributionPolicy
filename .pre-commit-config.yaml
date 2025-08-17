@@ -1,6 +1,6 @@
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.6.0
+    rev: 3e8a8703264a2f4a69428a0aa4dcb512790b2c8c  # v6.0.0
     hooks:
       - id: trailing-whitespace
       - id: end-of-file-fixer
@@ -10,20 +10,16 @@ repos:
       - id: mixed-line-ending
         args: ['--fix=lf']
 
-  - repo: https://github.com/igorshubovych/markdownlint-cli
-    rev: v0.41.0
+  - repo: https://github.com/DavidAnson/markdownlint-cli2
+    rev: d7a4f7cf4914d3bffb9b83bdbc45fd2a00c91ff9  # v0.18.1
     hooks:
-      - id: markdownlint
+      - id: markdownlint-cli2
         args: [--config, .markdownlint.json]
         exclude: node_modules
 
-  - repo: https://github.com/nvuillam/markdown-table-formatter
-    rev: v1.6.0
-    hooks:
-      - id: markdown-table-formatter
-
   - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
-    rev: '2.7.3'
+    rev: 61529b21391331d7cfd1f191df6293534a1fd79a  # 3.4.0
     hooks:
       - id: editorconfig-checker
         alias: ec
+        exclude: node_modules

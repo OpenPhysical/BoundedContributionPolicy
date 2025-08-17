@@ -2,19 +2,23 @@
 
 ## Purpose and Objectives
 
-The Bounded Contribution Policy addresses common challenges in technical project management by establishing clear criteria for contribution evaluation and scope management. This document explains the reasoning behind the policy's design and its practical benefits.
+The Bounded Contribution Policy addresses common challenges in technical project management
+by establishing clear criteria for contribution evaluation and scope management.
+This document explains the reasoning behind the policy's design and its practical benefits.
 
 ## Core Problems Addressed
 
 ### Scope Creep and Mission Drift
 
-Technical projects often face pressure to expand beyond their original objectives. Without clear boundaries, discussions can shift from implementation details to broader topics that don't advance the project's goals.
+Technical projects often face pressure to expand beyond their original objectives.
+Without clear boundaries, discussions can shift from implementation details to broader topics that don't advance the project's goals.
 
-**Policy Solution:** Explicit project relevance requirements ensure all contributions directly support technical objectives.
+**Policy Solution:** Clear project relevance requirements ensure all contributions directly support technical objectives.
 
 ### Inconsistent Evaluation Criteria
 
-When contribution evaluation lacks clear standards, decisions can appear arbitrary or biased, leading to frustration and inefficiency.
+When contribution evaluation lacks clear standards, decisions can appear arbitrary or biased,
+leading to frustration and inefficiency.
 
 **Policy Solution:** Individual evaluation based on technical merit provides consistent, objective criteria for all contributions.
 
@@ -34,7 +38,8 @@ Project maintainers often feel obligated to respond to all input, even when it d
 
 ### Neutrality Over Ideology
 
-The policy avoids taking positions on social or political issues, instead focusing on technical collaboration frameworks that work regardless of broader viewpoints.
+The policy avoids taking positions on social or political issues,
+instead focusing on technical collaboration frameworks that work regardless of broader viewpoints.
 
 **Benefit:** Reduces conflicts by keeping discussions centered on shared technical objectives rather than divisive topics.
 
@@ -70,7 +75,7 @@ Evaluating work based on technical merit rather than contributor characteristics
 
 ### For Contributors
 
-**Clear Expectations:** Explicit guidelines help contributors understand what types of contributions are welcome and how they'll be evaluated.
+**Clear Expectations:** Guidelines help contributors understand what types of contributions are welcome and how they'll be evaluated.
 
 **Fair Evaluation:** Merit-based assessment ensures that good technical contributions are recognized regardless of contributor background.
 
@@ -92,7 +97,9 @@ Evaluating work based on technical merit rather than contributor characteristics
 
 ### Traditional Codes of Conduct
 
-While codes of conduct focus on behavior and community standards, the Bounded Contribution Policy addresses contribution management specifically. Projects may use both approaches for comprehensive governance.
+While codes of conduct focus on behavior and community standards,
+the Bounded Contribution Policy addresses contribution management specifically.
+Projects may use both approaches for comprehensive governance.
 
 **Advantage:** Addresses technical project management needs not covered by behavioral guidelines.
 
@@ -112,7 +119,8 @@ Some projects restrict discussions to implementation details only, potentially l
 
 ### Cultural Adaptation
 
-The policy's neutral framework can be adapted for different cultural contexts while maintaining core principles of individual evaluation and technical focus.
+The policy's neutral framework can be adapted for different cultural contexts
+while maintaining core principles of individual evaluation and technical focus.
 
 ### Scale Flexibility
 
@@ -138,6 +146,10 @@ Explicit scope management allows projects to evolve intentionally rather than dr
 
 ## Conclusion
 
-The Bounded Contribution Policy provides a practical framework for managing technical projects by establishing clear boundaries and evaluation criteria. Its neutral, principle-based approach supports effective collaboration while maintaining project focus and sustainability.
+The Bounded Contribution Policy provides a practical framework for managing technical projects
+by establishing clear boundaries and evaluation criteria.
+Its neutral, principle-based approach supports effective collaboration while maintaining project focus and sustainability.
 
-The policy's value lies not in restricting contributions, but in providing clarity that enables more effective technical collaboration. By focusing on what the project is trying to achieve and how contributions are evaluated, teams can work more efficiently toward shared technical objectives.
+The policy's value lies not in restricting contributions, but in providing clarity that enables more effective technical collaboration.
+By focusing on what the project is trying to achieve and how contributions are evaluated,
+teams can work more efficiently toward shared technical objectives.
