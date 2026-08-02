@@ -49,10 +49,4 @@ jobs:
 
     - name: Check for broken internal links
       run: |
-        echo "Checking for broken internal markdown links..."
-        # Simple check for common broken link patterns
-        if grep -r "\]\(.*\.md\)" . --include="*.md" | grep -E "\]\([^)]*BOUNDED_CONTRIBUTION_POLICY\.md"; then
-          echo "❌ Found references to old BOUNDED_CONTRIBUTION_POLICY.md file"
-          exit 1
-        fi
-        echo "✅ No broken internal links found"
+        node scripts/check-markdown-links.js

@@ -1,56 +1,68 @@
 #!/bin/bash
 
-# Bounded Contribution Policy Quick Setup Script
-# Copies the policy and essential templates to your project
+# Bounded Contribution Policy adoption helper
+# Usage: ./setup.sh TARGET_DIR [SOURCE_DIR]
 
-set -e
+set -euo pipefail
 
-echo "🚀 Setting up Bounded Contribution Policy..."
+if [ "$#" -lt 1 ] || [ "$#" -gt 2 ]; then
+    echo "Usage: $0 TARGET_DIR [SOURCE_DIR]" >&2
+    echo "Example: $0 ../my-project" >&2
+    exit 2
+fi
 
-# Check if we're in a git repository
-if [ ! -d ".git" ]; then
-    echo "❌ This doesn't appear to be a git repository. Please run this in your project root."
+TARGET_DIR=$(CDPATH= cd -- "$1" 2>/dev/null && pwd) || {
+    echo "Target directory does not exist: $1" >&2
+    exit 1
+}
+
+SCRIPT_DIR=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+SOURCE_DIR=${2:-$SCRIPT_DIR}
+SOURCE_DIR=$(CDPATH= cd -- "$SOURCE_DIR" 2>/dev/null && pwd) || {
+    echo "Source directory does not exist: ${2:-$SCRIPT_DIR}" >&2
+    exit 1
+}
+
+if [ ! -e "$TARGET_DIR/.git" ]; then
+    echo "Target does not appear to be a git repository: $TARGET_DIR" >&2
     exit 1
 fi
 
-# Copy the main policy file
-if [ ! -f "CODE_OF_CONDUCT.md" ]; then
-    echo "📋 Copying CODE_OF_CONDUCT.md..."
-    cp CODE_OF_CONDUCT.md ./
-    echo "✅ Policy file copied"
-else
-    echo "⚠️  CODE_OF_CONDUCT.md already exists. Skipping..."
+if [ "$TARGET_DIR" = "$SOURCE_DIR" ]; then
+    echo "Target and source are the same directory; choose a consumer project as TARGET_DIR." >&2
+    exit 1
 fi
 
-# Create .github directory if it doesn't exist
-mkdir -p .github
+copy_if_missing() {
+    local source=$1
+    local target=$2
 
-# Copy issue template if it doesn't exist
-if [ ! -f ".github/ISSUE_TEMPLATE.md" ] && [ ! -d ".github/ISSUE_TEMPLATE" ]; then
-    echo "📝 Setting up issue template..."
-    cp -r .github/ISSUE_TEMPLATE ./github/
-    echo "✅ Issue templates copied"
-else
-    echo "⚠️  Issue templates already exist. Skipping..."
-fi
+    if [ ! -f "$source" ]; then
+        echo "Required source file is missing: $source" >&2
+        exit 1
+    fi
+    if [ -e "$target" ]; then
+        echo "Skipping existing $target"
+    else
+        mkdir -p "$(dirname -- "$target")"
+        cp "$source" "$target"
+        echo "Copied $target"
+    fi
+}
 
-# Copy PR template if it doesn't exist
-if [ ! -f ".github/PULL_REQUEST_TEMPLATE.md" ] && [ ! -f ".github/pull_request_template.md" ]; then
-    echo "📝 Copying pull request template..."
-    cp .github/PULL_REQUEST_TEMPLATE.md .github/
-    echo "✅ PR template copied"
-else
-    echo "⚠️  PR template already exists. Skipping..."
-fi
+echo "Setting up Bounded Contribution Policy in $TARGET_DIR"
+copy_if_missing "$SOURCE_DIR/CODE_OF_CONDUCT.md" "$TARGET_DIR/CODE_OF_CONDUCT.md"
 
-echo ""
-echo "🎉 Setup complete! Next steps:"
-echo ""
-echo "1. 📖 Read the policy: https://github.com/OpenPhysical/BoundedContributionPolicy"
-echo "2. 🔧 Customise templates in .github/ for your project"
-echo "3. 📝 Reference the policy in your README.md"
-echo "4. 🏷️  Add a badge: [![Bounded Contribution Policy](https://img.shields.io/badge/Contribution%20Policy-Bounded-blue)](https://github.com/OpenPhysical/BoundedContributionPolicy)"
-echo ""
-echo "Questions? Check the FAQ: https://github.com/OpenPhysical/BoundedContributionPolicy/blob/main/FAQ.md"
-echo ""
-echo "Sir, this is now a Wendy's. 🍔"
+# These are ready-to-copy adopter templates, kept separate from this repository's
+# own issue configuration.
+for template in "$SOURCE_DIR"/adoption/templates/github/ISSUE_TEMPLATE/*.md; do
+    copy_if_missing "$template" "$TARGET_DIR/.github/ISSUE_TEMPLATE/$(basename "$template")"
+done
+copy_if_missing "$SOURCE_DIR/adoption/templates/github/ISSUE_TEMPLATE/config.yml" \
+    "$TARGET_DIR/.github/ISSUE_TEMPLATE/config.yml"
+copy_if_missing "$SOURCE_DIR/adoption/templates/github/PULL_REQUEST_TEMPLATE.md" \
+    "$TARGET_DIR/.github/PULL_REQUEST_TEMPLATE.md"
+
+echo
+echo "Setup complete. Review and customise the copied policy and GitHub templates."
+echo "See: https://github.com/OpenPhysical/BoundedContributionPolicy/blob/master/docs/FAQ.md"

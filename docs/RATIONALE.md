@@ -32,7 +32,7 @@ Lengthy discussions about tangential topics consume time and attention that coul
 
 Project maintainers often feel obligated to respond to all input, even when it doesn't advance project objectives.
 
-**Policy Solution:** Maintainer discretion allows leaders to prioritize engagement based on project needs and available resources.
+**Policy Solution:** Maintainer discretion allows leaders to prioritise engagement based on project needs and available resources.
 
 ## Design Principles
 
@@ -41,7 +41,7 @@ Project maintainers often feel obligated to respond to all input, even when it d
 The policy avoids taking positions on social or political issues,
 instead focusing on technical collaboration frameworks that work regardless of broader viewpoints.
 
-**Benefit:** Reduces conflicts by keeping discussions centered on shared technical objectives rather than divisive topics.
+**Benefit:** Reduces conflicts by keeping discussions centred on shared technical objectives rather than divisive topics.
 
 ### Simplicity Over Complexity
 
@@ -71,7 +71,7 @@ Evaluating work based on technical merit rather than contributor characteristics
 
 **Improved Efficiency:** Less time spent on off-topic discussions means more time available for technical development.
 
-**Clearer Communication:** Standardized expectations reduce the need for repeated explanations of project boundaries.
+**Clearer Communication:** Standardised expectations reduce the need for repeated explanations of project boundaries.
 
 ### For Contributors
 
@@ -101,7 +101,7 @@ While codes of conduct focus on behaviour and community standards,
 the Bounded Contribution Policy addresses contribution management specifically.
 Projects may use both approaches for comprehensive governance.
 
-**Advantage:** Addresses technical project management needs not covered by behavioral guidelines.
+**Advantage:** Addresses technical project management needs not covered by behavioural guidelines.
 
 ### Open-Ended Contribution Policies
 

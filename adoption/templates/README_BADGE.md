@@ -38,7 +38,7 @@ This project follows the [Bounded Contribution Policy](CODE_OF_CONDUCT.md) to en
 [![BCP](https://img.shields.io/badge/BCP-Bounded-blue)](https://github.com/OpenPhysical/BoundedContributionPolicy)
 
 <!-- With version -->
-[![Bounded Contribution Policy v1.0](https://img.shields.io/badge/Contribution%20Policy-Bounded%20v1.0-blue)]
+[![Bounded Contribution Policy v2.0.3](https://img.shields.io/badge/Contribution%20Policy-Bounded%20v2.0.3-blue)]
 (https://github.com/OpenPhysical/BoundedContributionPolicy)
 ```
 

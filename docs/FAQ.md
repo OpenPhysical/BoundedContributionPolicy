@@ -35,12 +35,12 @@ including open source libraries, research projects, standards development, and i
 1. Copy the policy document to your repository
 2. Reference it in your README or contributing guidelines
 3. Use the provided templates for common scenarios
-4. See the [Adoption Guide](adoption/ADOPTION_GUIDE.md) for detailed steps
+4. See the [Adoption Guide](../adoption/ADOPTION_GUIDE.md) for detailed steps
 
 ### Can I modify the policy for my project?
 
-Yes, the policy is available under the MIT License for free adoption and modification.
-See the [Customisation Guide](adoption/CUSTOMISATION.md) for guidance on maintaining core principles while adapting to your needs.
+Yes, the policy is available under the MIT Licence for free adoption and modification.
+See the [Customisation Guide](../adoption/CUSTOMISATION.md) for guidance on maintaining core principles while adapting to your needs.
 
 ### Do I need special tools or platforms to use this policy?
 
@@ -106,9 +106,9 @@ Templates and examples make it easier for newcomers to provide appropriate contr
 The policy focuses on contribution evaluation criteria and project scope, which are standard project management practices.
 It doesn't address employment law, harassment, or other legal compliance areas that may require additional policies.
 
-### Can this policy be used alongside other organizational policies?
+### Can this policy be used alongside other organisational policies?
 
-Yes, this policy addresses contribution management specifically and can complement broader organizational policies,
+Yes, this policy addresses contribution management specifically and can complement broader organisational policies,
 codes of conduct, or legal compliance frameworks.
 
 ### What about accessibility and inclusion considerations?
@@ -176,9 +176,9 @@ The goal isn't to dismiss anyone's concerns—it's to keep technical projects pr
 
 ### Where can I get support for implementing this policy?
 
-- Review the [Adoption Guide](adoption/ADOPTION_GUIDE.md) for step-by-step instructions
+- Review the [Adoption Guide](../adoption/ADOPTION_GUIDE.md) for step-by-step instructions
 - Use provided templates for common scenarios
-- Adapt examples from the [Customisation Guide](adoption/CUSTOMISATION.md)
+- Adapt examples from the [Customisation Guide](../adoption/CUSTOMISATION.md)
 - Contact the project maintainers for specific questions
 
 ### How can I contribute improvements to this policy?

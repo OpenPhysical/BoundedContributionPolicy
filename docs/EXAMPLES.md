@@ -86,7 +86,7 @@ If you have concerns about specific technical aspects of the implementation, ple
 **Out of Scope:**
 
 - Company policy discussions
-- Organizational restructuring topics
+- Organisational restructuring topics
 - General business strategy
 - Personal workplace complaints
 
@@ -227,7 +227,7 @@ Emphasize security implications, threat modeling, vulnerability assessment, and 
 
 ### Educational Software
 
-Prioritize usability for learning, pedagogical effectiveness, accessibility, and educational outcome measurement.
+Prioritise usability for learning, pedagogical effectiveness, accessibility, and educational outcome measurement.
 
 ### Standards Development
 

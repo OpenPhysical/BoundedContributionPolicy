@@ -92,7 +92,7 @@ The policy can be adapted for different project types:
 
 **Internal Teams:**
 
-- Adapt language for organizational context
+- Adapt language for organisational context
 - Include references to internal processes
 
 See [CUSTOMISATION.md](CUSTOMISATION.md) for detailed adaptation guidance.

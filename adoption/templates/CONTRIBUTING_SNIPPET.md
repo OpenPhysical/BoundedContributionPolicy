@@ -11,7 +11,7 @@ This project follows the [Bounded Contribution Policy](CODE_OF_CONDUCT.md) to ma
 - **Technical Relevance**: Contributions must directly support project objectives
 - **Individual Evaluation**: Work is assessed based on technical merit, not contributor identity
 - **Clear Communication**: Discussions should be specific and actionable
-- **Project Focus**: We maintain a neutral environment centered on technical development
+- **Project Focus**: We maintain a neutral environment centred on technical development
 
 ### Before Contributing
 

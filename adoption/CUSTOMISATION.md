@@ -1,6 +1,6 @@
 # Customization Guide
 
-The Bounded Contribution Policy can be adapted for different project types, organizational contexts, and technical domains
+The Bounded Contribution Policy can be adapted for different project types, organisational contexts, and technical domains
 while maintaining its core principles.
 
 ## Core Principles to Maintain
@@ -95,7 +95,7 @@ Replace casual language with more formal alternatives:
 
 ### Corporate Environment
 
-Adapt for organizational context:
+Adapt for organisational context:
 
 - Reference company policies where appropriate
 - Include compliance considerations
@@ -181,7 +181,7 @@ the project scope unless they directly impact [primary objective].
 
 ## Testing Customizations
 
-Before implementing customized versions:
+Before implementing customised versions:
 
 1. **Review with team** - Ensure understanding and buy-in
 2. **Test with examples** - Apply to real scenarios
@@ -191,7 +191,7 @@ Before implementing customized versions:
 
 ## Template Structure
 
-When creating customized versions, maintain this structure:
+When creating customised versions, maintain this structure:
 
 1. **Purpose statement** - Why the policy exists
 2. **Core principles** - What guides evaluation

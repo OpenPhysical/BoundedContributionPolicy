@@ -33,7 +33,7 @@ the project move forward. It's not about limiting people—it's about channellin
 
 The OpenPhysical Foundation uses this policy as a standards body to maintain focus on technical specifications and implementation details.
 
-**Current Version: 2.0.2** ([See Changelog](docs/CHANGELOG.md))
+**Current Version: 2.0.3** ([See Changelog](docs/CHANGELOG.md))
 
 ## 📊 At a Glance
 
@@ -76,6 +76,22 @@ Traditional governance models can introduce complexity and scope creep that dist
 1. 📋 Copy [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) to your project
 2. 🔗 Reference it in your README or contributing guidelines
 3. 🛠️ Use the provided templates for common scenarios
+
+For a local checkout, the adoption helper installs the policy and ready-to-copy
+GitHub templates into another git repository:
+
+```bash
+./setup.sh ../your-project
+```
+
+Pass a second argument to use a different policy package directory:
+
+```bash
+./setup.sh ../your-project /path/to/BoundedContributionPolicy
+```
+
+The helper skips files that already exist. Review and customise every copied file
+before committing it.
 
 ## 📚 Implementation Resources
 

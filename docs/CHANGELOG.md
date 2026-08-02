@@ -5,6 +5,12 @@ All notable changes to the Bounded Contribution Policy framework will be documen
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.3] - 2026-08-02
+
+- Fixed adoption setup paths and made the setup helper install into a specified target repository.
+- Added ready-to-copy GitHub templates and real internal Markdown link validation.
+- Clarified policy naming, local reporting responsibilities, and British English usage.
+
 ## [2.0.2] - 2025-08-17
 
 ### Fixed
@@ -60,7 +66,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Humor guidance in policy: appropriate humor that reinforces project focus is welcome
 - Comprehensive pull request template with quality assurance checklists
 - EditorConfig file for consistent formatting across editors
-- GitAttributes file for standardized line endings (LF)
+- GitAttributes file for standardised line endings (LF)
 
 ### Changed
 
@@ -72,7 +78,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Technical
 
-- Line endings standardized to LF throughout repository
+- Line endings standardised to LF throughout repository
 - Pre-commit hooks enhanced with additional formatting checks
 - GitHub Actions workflow improved with separate validation job
 - Markdown linting with auto-fix capabilities

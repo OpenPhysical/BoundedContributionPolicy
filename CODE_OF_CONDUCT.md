@@ -1,6 +1,10 @@
 # Bounded Contribution Policy
 
-**Version 2.0.2** | [Changelog](docs/CHANGELOG.md)
+**Version 2.0.3** | [Changelog](docs/CHANGELOG.md)
+
+This document is the project's Bounded Contribution Policy. Adopting projects may
+keep the conventional `CODE_OF_CONDUCT.md` filename or rename it to match their
+own policy terminology.
 
 ## Our Standards
 
@@ -15,7 +19,7 @@ Off-topic discussions, regardless of intent, are out of scope.
 ### Individual Evaluation
 
 Each contribution is evaluated based on its technical merit and relevance to the project.
-Personal identity, background, seniority, or organizational affiliation do not factor into acceptance decisions.
+Personal identity, background, seniority, or organisational affiliation do not factor into acceptance decisions.
 
 ### Focused Communication
 
@@ -33,7 +37,7 @@ when it maintains professional tone and supports productive collaboration.
 ### Maintainer Discretion
 
 Project maintainers are not obligated to respond to all input.
-Engagement is prioritized based on project needs, technical relevance, and available resources.
+Engagement is prioritised based on project needs, technical relevance, and available resources.
 
 ### Neutral Environment
 
@@ -48,12 +52,12 @@ Violations will result in rejection of contributions, removal of access,
 or other actions necessary to maintain project focus.
 
 Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues,
-and other contributions that do not align with this Code of Conduct,
+and other contributions that do not align with this policy,
 and will communicate reasons for moderation decisions when appropriate.
 
 ## Scope
 
-This Code of Conduct applies within all project spaces, including but not limited to:
+This policy applies within all project spaces, including but not limited to:
 
 - GitHub repository (issues, pull requests, discussions)
 - Project documentation
@@ -63,3 +67,10 @@ This Code of Conduct applies within all project spaces, including but not limite
 
 The Bounded Contribution Policy provides a framework for maintaining focused, productive technical collaboration
 by establishing clear boundaries around project scope and contribution evaluation criteria.
+
+## Reporting and Local Process
+
+This minimal policy does not prescribe a reporting channel, appeal process, or
+escalation path. Each adopting project should document those procedures, including
+who receives reports and who makes final decisions, under its own organisational
+policies and applicable requirements.
